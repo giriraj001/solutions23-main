@@ -25,6 +25,11 @@ window.addEventListener("load", (event) => {
   let width = iframe.width;
   let screenwidth = window.innerWidth;
 
+  if (screenwidth < 800) {
+    iframe.Width = 300;
+    console.log(iframe.height);
+  }
+
   forms.style.height = `${iframe.offsetHeight}px`;
   console.log(waiting.style.display);
   iframe.style.display = "block";
@@ -33,10 +38,6 @@ window.addEventListener("load", (event) => {
   console.log(forms.innerHTML);
   // width change if screen size less than 800px
 
-  if (screenwidth < 800) {
-    iframe.Width = 300;
-    console.log(iframe.height);
-  }
   // width changing on resize
 
   window.addEventListener(
