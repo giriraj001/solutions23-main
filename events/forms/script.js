@@ -5,8 +5,6 @@ import { google_form_links as links } from "./data.js";
 window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
 
-  const waiting_loader = document.querySelector(".waiting");
-
   const forms = document.querySelector(".forms");
 
   // var URL = new URL(window.location.href);
@@ -19,7 +17,8 @@ window.addEventListener("load", (event) => {
 
   // waiting_loader.style.display='none';
   forms.innerHTML += `${links[eventcat][eventid]}`;
-
+  console.log(forms.innerHTML);
+  const waiting = document.querySelector(".waiting");
   // height logic
   const iframe = document.querySelector("iframe");
   let height = iframe.height;
@@ -27,7 +26,11 @@ window.addEventListener("load", (event) => {
   let screenwidth = window.innerWidth;
 
   forms.style.height = `${iframe.offsetHeight}px`;
-
+  console.log(waiting.style.display);
+  iframe.style.display = "block";
+  waiting.style.display = "none";
+  console.log(iframe.style.display);
+  console.log(forms.innerHTML);
   // width change if screen size less than 800px
 
   if (screenwidth < 800) {
@@ -35,7 +38,7 @@ window.addEventListener("load", (event) => {
     console.log(iframe.height);
   }
   // width changing on resize
-  waiting_loader.style.display = "none";
+
   window.addEventListener(
     "resize",
     function (event) {
