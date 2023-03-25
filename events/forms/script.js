@@ -24,16 +24,18 @@ window.addEventListener("load", (event) => {
   let height = iframe.height;
   let width = iframe.width;
   let screenwidth = window.innerWidth;
-
+  forms.style.height = `${iframe.offsetHeight}px`;
+  iframe.style.display = "block";
+  iframe.style.visibility = "hidden";
   if (screenwidth < 800) {
-    iframe.Width = 300;
-    console.log(iframe.height);
+    iframe.width = 300;
+    console.log("width:", iframe.width);
   }
 
-  forms.style.height = `${iframe.offsetHeight}px`;
   console.log(waiting.style.display);
-  iframe.style.display = "block";
+  iframe.style.visibility = "visible";
   waiting.style.display = "none";
+
   console.log(iframe.style.display);
   console.log(forms.innerHTML);
   // width change if screen size less than 800px
