@@ -98,13 +98,13 @@ body {
   font: 3rem;
 }
 
-.register,
-.register:visited {
+.register {
   display: flex;
   text-align: center;
+  width: min-content;
   margin: auto;
   margin-top: 4rem;
-  padding: 1.5rem 3rem 1.5rem;
+  /* padding: 1.5rem 3rem 1.5rem; */
   size: 4rem;
   font-size: 2rem;
   border-radius: 5px;
@@ -116,6 +116,7 @@ body {
   );
   backdrop-filter: blur(10px);
   text-decoration: none;
+  border: 2px solid rgba(31, 43, 42, 0.51);
 }
 .register:hover,
 .register:active {
@@ -238,7 +239,7 @@ body {
     display: flex;
     margin: auto;
     margin-top: 3rem;
-    padding: 1.2rem 2.2rem 1.2rem;
+    /* padding: 1.2rem 2.2rem 1.2rem; */
     size: 3rem;
     font-size: 1.5rem;
     border-radius: 5px;
@@ -481,3 +482,17 @@ body {
 }
 
 /* navabar complete */
+
+#register-button-anchor,
+.register-button-anchor:visited {
+  color: white;
+  text-decoration: none;
+  padding: 1.5rem 3rem 1.5rem;
+  width: max-content;
+}
+@media (max-width: 700px) {
+  .register {
+    width: 200px;
+    padding: unset;
+  }
+}

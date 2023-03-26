@@ -41,7 +41,7 @@ let div = `<div class="container">
         <p class="description-text"> ${data[eventcat][eventid].paragraph}
         </p>
     </div>
-    <button class="register">Register Now</button>
+    <div class="register">Register Now</div>
 </div>`;
 
 container.innerHTML = div;
@@ -58,13 +58,13 @@ window.addEventListener("DOMContentLoaded", function () {
   for (let e = 0; e < self_website.length; e++) {
     console.log(self_website[e][0]);
     if (eventcat == self_website[e][0]) {
-      registerbtn.innerHTML = `<a class="line-anim" id="register-button-anchor" onClick={window.location.assign("${self_website[e][2]}")} >Register for event</a>`;
+      registerbtn.innerHTML = `<a class="register-link" id="register-button-anchor" onClick={window.location.assign("${self_website[e][2]}")} >Register for event</a>`;
       redirect = true;
       break;
     }
   }
   if (!redirect) {
     console.log("no redirect");
-    registerbtn.innerHTML = `<a class="line-anim" id="register-button-anchor" href="../forms/index.html?eventcat=${eventcat}&eventid=${eventid}" >Register for event</a>`;
+    registerbtn.innerHTML = `<a class="register-link" id="register-button-anchor" href="../forms/index.html?eventcat=${eventcat}&eventid=${eventid}" >Register for event</a>`;
   }
 });

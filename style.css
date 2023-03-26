@@ -18,7 +18,7 @@ html {
 
 body {
   position: relative;
-  background-color: #141c1d;
+  background-color: #000;
   color: #fff;
   /* font-size: 2.2rem; */
   font-family: sans-serif;
@@ -165,7 +165,7 @@ body {
   height: 100%;
 }
 .container-hero {
-  height: 100vh;
+  height: max(100vh, 620px);
 }
 .hero-section {
   margin-top: 10.2rem;
@@ -326,8 +326,8 @@ body {
 .hero-section::before {
   position: absolute;
   content: "";
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
 
   background-image: url(images/spiral.png);
   background-size: contain;
