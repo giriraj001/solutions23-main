@@ -148,6 +148,11 @@ body {
   .main-navbar {
     display: none;
   }
+  .solutions-logo {
+    margin-top: 2vw;
+    margin-left: 2vw;
+    height: 40px;
+  }
 }
 
 /* navabar complete */
@@ -175,7 +180,31 @@ body {
   align-self: center;
   margin: 150px auto;
 }
+.hero-section::after {
+  position: absolute;
+  content: "";
+  height: 50px;
+  width: 50px;
+  left: 18.28%;
+  right: 77.69%;
+  top: 8.27%;
+  bottom: 90.77%;
 
+  background-image: url(images/hero_arrow.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.hero_zigzag::before {
+  position: absolute;
+  content: "";
+  height: 100px;
+  width: 100px;
+  right: 20.2%;
+  bottom: 78.32%;
+  background-image: url(images/zig_zag.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 .hero-section img {
   max-width: 60%;
 }
@@ -189,6 +218,22 @@ body {
   gap: 2rem;
   font-size: 2.5rem;
   margin-bottom: 15px;
+  font-family: "Roboto", sans-serif;
+  color: #aeaeae;
+}
+.ait-name :first-child {
+  font-weight: 400;
+}
+#t_b {
+  font-weight: 500;
+  letter-spacing: 0.1em;
+}
+.about {
+  background: rgba(29, 67, 61, 0.3);
+}
+.about_container {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 .about-us-headding {
   align-items: center;
@@ -260,7 +305,7 @@ body {
 
 /* -----------Event Grid-------- */
 .container-events {
-  padding-top: 150px;
+  padding-top: 60px;
 }
 .event_grid {
   margin-top: 10rem;
@@ -375,7 +420,17 @@ body {
     max-width: 70%;
   } */
   .hero-section img {
-    max-width: 80%;
+    max-width: 90%;
+  }
+  .hero-section::before {
+    height: 200px;
+    width: 200px;
+  }
+  .hero-section::after {
+    height: 30px;
+    width: 30px;
+    top: 10%;
+    left: 8%;
   }
   .ait-name {
     font-size: 2rem;
@@ -387,7 +442,7 @@ body {
     display: none;
   }
   .event_grid img {
-    width: 250px;
+    width: 200px;
     margin-bottom: 40px;
   }
 
