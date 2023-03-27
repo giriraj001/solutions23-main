@@ -175,6 +175,7 @@ body {
   .coading_events_grid {
     grid-template-columns: 1fr;
     width: 100%;
+    margin-top: 5rem;
   }
   .coading_event {
     width: 20rem;
@@ -222,6 +223,9 @@ body {
   }
   .event_scroll::-webkit-scrollbar-thumb {
     background-color: rgba(101, 207, 181, 0.516);
+  }
+  .events-text {
+    padding-top: 5rem;
   }
 }
 
