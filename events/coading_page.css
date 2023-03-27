@@ -209,6 +209,20 @@ body {
   .events-text img {
     width: 20rem;
   }
+  .event_scroll {
+    height: 78px;
+    justify-content: unset;
+    overflow-x: scroll;
+  }
+  .event_scroll::-webkit-scrollbar {
+    height: 2px;
+  }
+  .event_scroll::-webkit-scrollbar-track {
+    background-color: #2f4b4a;
+  }
+  .event_scroll::-webkit-scrollbar-thumb {
+    background-color: rgba(101, 207, 181, 0.516);
+  }
 }
 
 /* -------navbar----- */
