@@ -1,216 +1,168 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Solutions 2023</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="schedule.css" />
     <!-- for tab icon -->
     <link rel="icon" href="images/solution-icon.png" />
     <link rel="apple-touch-icon" href="images/solution-icon.png" />
     <link rel="manifest" href="manifest.webmanifest" />
-  </head>
+</head>
 
-  <body>
+<body>
     <!-- --Nav bar--- -->
     <nav class="navbar">
-      <img
-        src="images/solutions-logo.png"
-        alt="Solutions logo"
-        class="solutions-logo"
-      />
+        <img src="images/solutions-logo.png" alt="Solutions logo" class="solutions-logo" />
 
-      <div class="main-navbar">
-        <a href="../index.html"
-          ><img class="nav_btn_img" src="images/home-icon.png" alt=""
-        /></a>
-        <a class="main_navbar_link" href="#events_section"
-          ><img
-            class="nav_btn_img nav_btn_img_middle"
-            src="images/events-icon.png"
-            alt=""
-        /></a>
-        <a href="../team/index.html"
-          ><img
-            class="nav_btn_img nav_btn_img_middle"
-            src="images/team-icon.png"
-            alt=""
-        /></a>
-        <a href="./schedule/"
-          ><img class="nav_btn_img" src="images/contact-us-icon.png" alt=""
-        /></a>
-      </div>
-
-      <div class="hamburger-button" id="hamburger">
-        <div class="sidemenu">
-          <div class="menu">
-            <ul class="contact-us_content list">
-              <li class="contact-us_list-item ham">
-                <a href="../index.html"
-                  ><img class="nav_btn_img" src="images/home-icon.png" alt=""
-                /></a>
-              </li>
-              <li class="contact-us_list-item ham">
-                <a href="#events_section"
-                  ><img
-                    class="nav_btn_img nav_btn_img_middle"
-                    src="images/events-icon.png"
-                    alt=""
-                /></a>
-              </li>
-              <li class="contact-us_list-item ham">
-                <a href="../team/index.html"
-                  ><img
-                    class="nav_btn_img nav_btn_img_middle"
-                    src="images/team-icon.png"
-                    alt=""
-                /></a>
-              </li>
-              <li class="contact-us_list-item ham">
-                <a href="../schedule/index.html"
-                  ><img
-                    class="nav_btn_img"
-                    src="images/contact-us-icon.png"
-                    alt=""
-                /></a>
-              </li>
-            </ul>
-          </div>
+        <div class="main-navbar">
+            <a href="../index.html"><img class="nav_btn_img" src="images/home-icon.png" alt="" /></a>
+            <a class="main_navbar_link" href="#events_section"><img class="nav_btn_img nav_btn_img_middle" src="images/events-icon.png" alt="" /></a>
+            <a href="../team/index.html"><img class="nav_btn_img nav_btn_img_middle" src="images/team-icon.png" alt="" /></a>
+            <a href="./schedule/"><img class="nav_btn_img" src="images/schedule-icon.png" alt="" /></a>
         </div>
-      </div>
+
+        <div class="hamburger-button" id="hamburger">
+            <div class="sidemenu">
+                <div class="menu">
+                    <ul class="contact-us_content list">
+                        <li class="contact-us_list-item ham">
+                            <a href="../index.html"><img class="nav_btn_img" src="images/home-icon.png" alt="" /></a>
+                        </li>
+                        <li class="contact-us_list-item ham">
+                            <a href="#events_section"><img class="nav_btn_img nav_btn_img_middle" src="images/events-icon.png" alt="" /></a>
+                        </li>
+                        <li class="contact-us_list-item ham">
+                            <a href="../team/index.html"><img class="nav_btn_img nav_btn_img_middle" src="images/team-icon.png" alt="" /></a>
+                        </li>
+                        <li class="contact-us_list-item ham">
+                            <a href="../schedule/index.html"><img class="nav_btn_img" src="images/schedule-icon.png" alt="" /></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </nav>
     <!-- --Nav bar end-- -->
 
     <section class="header">
-      <div class="container">
-        <div class="schedule-text">
-          <img src="images/schedule_text.png" alt="Schedule" />
+        <div class="container">
+            <div class="schedule-text">
+                <img src="images/schedule_text.png" alt="Schedule" />
+            </div>
+            <div class="schedule_date">
+                <a href="#" class="dates_time dates_time_anchor">
+                    <span class="dates">Thu</span>
+                    <span class="time">20/4/23</span>
+                </a>
+                <a href="#" class="dates_time dates_time_anchor">
+                    <span class="dates">Fri</span>
+                    <span class="time">21/4/23</span>
+                </a>
+                <a href="#" class="dates_time dates_time_anchor">
+                    <span class="dates">Sat</span>
+                    <span class="time">22/4/23</span>
+                </a>
+                <a href="#" class="dates_time dates_time_anchor">
+                    <span class="dates">Sun</span>
+                    <span class="time">23/4/23</span>
+                </a>
+            </div>
+            <div class="events_grid">
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+                <div class="event_border">
+                    <div class="event">
+                        <span class="event_name">Code Red</span>
+                        <span class="event_time">(2:00 PM)</span>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="schedule_date">
-          <a href="#" class="dates_time dates_time_anchor">
-            <span class="dates">Thu</span>
-            <span class="time">20/4/23</span>
-          </a>
-          <a href="#" class="dates_time dates_time_anchor">
-            <span class="dates">Fri</span>
-            <span class="time">21/4/23</span>
-          </a>
-          <a href="#" class="dates_time dates_time_anchor">
-            <span class="dates">Sat</span>
-            <span class="time">22/4/23</span>
-          </a>
-          <a href="#" class="dates_time dates_time_anchor">
-            <span class="dates">Sun</span>
-            <span class="time">23/4/23</span>
-          </a>
-        </div>
-        <div class="events_grid">
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-          <div class="event_border">
-            <div class="event">
-              <span class="event_name">Code Red</span>
-              <span class="event_time">(2:00 PM)</span>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
     <!---------------- Footer ---------------->
     <div class="container-footer">
-      <footer class="container footer">
-        <div class="get-to-know-us footer-ele">
-          <p>Get to know us</p>
+        <footer class="container footer">
+            <div class="get-to-know-us footer-ele">
+                <p>Get to know us</p>
 
-          <a href="#">Technical Board</a>
-          <a href="#" class>About us</a>
-          <a href="#" class>Our team</a>
-        </div>
+                <a href="#">Technical Board</a>
+                <a href="#" class>About us</a>
+                <a href="#" class>Our team</a>
+            </div>
 
-        <div class="site-map footer-ele">
-          <p>Site Map</p>
-          <a href="#">Home</a>
-          <a href="#">About</a>
-          <a href="#">Discord</a>
-        </div>
+            <div class="site-map footer-ele">
+                <p>Site Map</p>
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Discord</a>
+            </div>
 
-        <div class="follow-us-on footer-ele">
-          <p>Follow us on</p>
-          <div class="follow-us-on-items">
-            <a href="#" target="_blank"
-              ><img src="images/github-icon.png" alt="github-icon"
-            /></a>
-            <a
-              href="https://instagram.com/aittechnicalboard?igshid=YmMyMTA2M2Y="
-              target="_blank"
-              ><img src="images/instagram-icon.png" alt="instagram-icon"
-            /></a>
-            <a href="#" target="_blank"
-              ><img src="images/linkedin-icon.png" alt="linkedin-icon"
-            /></a>
-            <a
-              href="https://www.facebook.com/groups/680716451983061/?ref=share&mibextid=NSMWBT"
-              target="_blank"
-              ><img src="images/facebook-icon.png" alt="facebook-icon"
-            /></a>
-          </div>
-        </div>
-      </footer>
+            <div class="follow-us-on footer-ele">
+                <p>Follow us on</p>
+                <div class="follow-us-on-items">
+                    <a href="#" target="_blank"><img src="images/github-icon.png" alt="github-icon" /></a>
+                    <a href="https://instagram.com/aittechnicalboard?igshid=YmMyMTA2M2Y=" target="_blank"><img src="images/instagram-icon.png" alt="instagram-icon" /></a>
+                    <a href="#" target="_blank"><img src="images/linkedin-icon.png" alt="linkedin-icon" /></a>
+                    <a href="https://www.facebook.com/groups/680716451983061/?ref=share&mibextid=NSMWBT" target="_blank"><img src="images/facebook-icon.png" alt="facebook-icon" /></a>
+                </div>
+            </div>
+        </footer>
     </div>
-  </body>
-  <script src="nav.js"></script>
+</body>
+<script src="nav.js"></script>
+
 </html>
