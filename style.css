@@ -221,7 +221,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-top: 16rem;
+  padding-top: 19rem;
   gap: 2rem;
   font-size: 2.5rem;
   margin-bottom: 15px;
@@ -458,7 +458,7 @@ body {
   .hero-section::after {
     height: 30px;
     width: 30px;
-    top: 10%;
+    top: 8%;
     left: 8%;
   }
   .ait-name {
