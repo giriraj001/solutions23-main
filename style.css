@@ -458,7 +458,7 @@ body {
   .hero-section::after {
     height: 30px;
     width: 30px;
-    top: 10%;
+    top: 8%;
     left: 8%;
   }
   .ait-name {
