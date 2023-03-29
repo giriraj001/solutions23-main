@@ -14,11 +14,11 @@ let div = `<div class="container">
     <div class="timing-details flex-elements">
         <div class="date-details flex-elements">
             <img src="./images/date-icon.svg" alt="" class="icon">
-            <p>Date: ${data[eventcat][eventid].date}th Apr</p>
+            <p>Date: ${data[eventcat][eventid].date}</p>
         </div>
         <div class="time-details flex-elements">
             <img src="./images/time-icon.svg" alt="" class="icon">
-            <p>Time:${data[eventcat][eventid].date} hrs</p>
+            <p>Time: ${data[eventcat][eventid].date}</p>
         </div>
     </div>
     <div class="total-prize-details flex-elements">
@@ -26,9 +26,9 @@ let div = `<div class="container">
         <p>Prizes worth: INR ${data[eventcat][eventid].prizeWorth}</p>
     </div>
     <div class="individual-prize-details flex-elements">
-        <p>1st:INR${data[eventcat][eventid].firstposition}</p>
-        <p>2nd:INR${data[eventcat][eventid].secondposition}</p>
-        <p>3rd:INR${data[eventcat][eventid].thirdposition}</p>
+        <p>1st : INR ${data[eventcat][eventid].firstposition}</p>
+        <p>2nd : INR ${data[eventcat][eventid].secondposition}</p>
+        <p>3rd : INR ${data[eventcat][eventid].thirdposition}</p>
     </div>
     <div class="team-size-details flex-elements">
         <img src="./images/team-icon.svg" alt="" class="icon">

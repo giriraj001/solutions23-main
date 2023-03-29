@@ -193,7 +193,7 @@ body {
   width: 50px;
   left: 18.28%;
   right: 77.69%;
-  top: 8.27%;
+  top: 6.5%;
   bottom: 90.77%;
   background-image: url(images/hero_arrow.png);
   background-size: contain;
@@ -206,7 +206,7 @@ body {
   height: 100px;
   width: 100px;
   right: 20.2%;
-  bottom: 78.32%;
+  bottom: 83.32%;
   background-image: url(images/zig_zag.png);
   background-size: contain;
   background-repeat: no-repeat;
@@ -349,6 +349,61 @@ body {
   cursor: pointer;
 }
 
+/* ---Highlights---- */
+.highlights_headding {
+  padding-top: 5rem;
+}
+.highlights_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin: 5rem 10vw 8rem;
+  row-gap: 7rem;
+}
+.highlight_image {
+  width: 500px;
+  height: 250px;
+}
+.highlight_disc {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.highlight_disc span {
+  font-size: 3rem;
+  font-weight: 500;
+  background: linear-gradient(180deg, #66d6b4 0%, #189fff 100%, #5ca8cc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.highlight_disc p {
+  font-size: 2rem;
+}
+@media (max-width: 1200px) {
+  .highlight_image {
+    width: 400px;
+    height: auto;
+  }
+}
+@media (max-width: 700px) {
+  .highlights_grid {
+    grid-template-columns: 1fr;
+  }
+  .highlight_image {
+    width: 300px;
+    height: 150px;
+  }
+  .highlights_grid :last-child {
+    grid-row: 3;
+  }
+}
+/* ---Highlights end---- */
+
 /* ---------FOOTER-------------- */
 
 .container-footer {
@@ -458,7 +513,7 @@ body {
   .hero-section::after {
     height: 30px;
     width: 30px;
-    top: 8%;
+    top: 6.2%;
     left: 8%;
   }
   .ait-name {

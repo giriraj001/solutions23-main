@@ -105,6 +105,7 @@ body {
   );
   backdrop-filter: blur(10px);
   transition: all 0.1s ease-in-out;
+  border: 5px solid rgba(102, 214, 180, 0.863);
 }
 
 .coading_event:hover,
