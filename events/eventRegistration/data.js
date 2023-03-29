@@ -11,7 +11,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: "1",
       descriptionUp:
         "Are you a good problem solver? or someone who knows how to deal with things in the most optimal way?<br>SHORTEST CODE is an event where the participants are required to crack the code by sprinting against the time and get to the most optimal and tiniest code possible.<br>This event aims to test the problem-solving and aptitude of the participants and encourage them to code.<br>Remember .The smaller the code, the bigger your chances to win.",
       paragraph:
@@ -69,8 +69,7 @@ const events = [
       teamSize: " 1",
       descriptionUp:
         "Maze puzzle, a game which we used to see in our books and newspaper and solve them with our fast mind. Now it’s time for robots to do so. Here we bring you the most awaited competition named MAZE RUNNER where each team brings their smart bot which will   analyze the path in the dry run and then has to go through the maze from the start point to the end point by the shortest path in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head proper rules and their implementation  will be carried out .  It would be a wonderful experience for the participants as well as for the spectators and thrilling moments will be captured for lifetime.",
-      paragraph:
-        "PENDING!!!",
+      paragraph: "PENDING!!!",
       descriptionDown: "",
     },
     // PICK AND PLACE
@@ -86,8 +85,7 @@ const events = [
       teamSize: " 1",
       descriptionUp:
         "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
-      paragraph:
-        "PENDING !!!",
+      paragraph: "PENDING !!!",
       descriptionDown: "",
     },
     // ROBO SOCCER
@@ -103,8 +101,7 @@ const events = [
       teamSize: " 1",
       descriptionUp:
         "A well known and loved sport football has become famous world wide and each one of us playing the game want to became Messi and Ronaldo. We are bringing  up the event ROBO SOCCER in which pair of two teams will battle it out and prove their endurance in a nail-biting game of football using their bots as the players . A proper venue will be allotted for the event and with guidance of event head proper rules and their implementation  will be carried out .  It would be a wonderful experience for the participants as well as for the spectators and thrilling moments will be captured for lifetime.",
-      paragraph:
-        "PENDING!!!",
+      paragraph: "PENDING!!!",
       descriptionDown: "",
     },
     // RC RACING
@@ -120,8 +117,7 @@ const events = [
       teamSize: " 1",
       descriptionUp:
         "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
-      paragraph:
-        "PENDING!!!",
+      paragraph: "PENDING!!!",
       descriptionDown: "",
     },
     // DRONE RACING
@@ -137,8 +133,7 @@ const events = [
       teamSize: " 1",
       descriptionUp:
         "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
-      paragraph:
-        "PENDING !!!",
+      paragraph: "PENDING !!!",
       descriptionDown: "",
     },
   ],
@@ -241,10 +236,8 @@ const events = [
       secondposition: "3000/-",
       thirdposition: "2000/-",
       teamSize: " 1",
-      descriptionUp:
-        "PENDING!!!",
-      paragraph:
-        "PENDING!!!",
+      descriptionUp: "PENDING!!!",
+      paragraph: "PENDING!!!",
       descriptionDown: "",
     },
     // HOW UNICORN
@@ -296,10 +289,8 @@ const events = [
       secondposition: "8000/-",
       thirdposition: "5000/-",
       teamSize: " 1",
-      descriptionUp:
-        "PENDING!!!",
-      paragraph:
-        "PENDING!!!",
+      descriptionUp: "PENDING!!!",
+      paragraph: "PENDING!!!",
       descriptionDown: "",
     },
     // FLASH 500
@@ -313,10 +304,8 @@ const events = [
       secondposition: "5000/-",
       thirdposition: "3000/-",
       teamSize: " 1",
-      descriptionUp:
-        "PENDING !!!",
-      paragraph:
-        "PENDING !!!",
+      descriptionUp: "PENDING !!!",
+      paragraph: "PENDING !!!",
       descriptionDown: "",
     },
   ],
