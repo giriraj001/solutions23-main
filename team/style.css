@@ -333,8 +333,10 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-items: center;
+  justify-content: center;
   align-items: center;
   gap: 6rem;
+  column-gap: 0;
 }
 
 .webdev_team {
