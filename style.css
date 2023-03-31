@@ -375,11 +375,10 @@ body {
 .highlight_disc span {
   font-size: 3rem;
   font-weight: 500;
-  background: linear-gradient(180deg, #66d6b4 0%, #189fff 100%, #5ca8cc 100%);
+  background: linear-gradient(92.8deg, #65cfb4 7.43%, #5ca8cc 99.2%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  text-fill-color: transparent;
 }
 .highlight_disc p {
   font-size: 2rem;
@@ -400,6 +399,9 @@ body {
   }
   .highlights_grid :last-child {
     grid-row: 3;
+  }
+  .highlight_disc p {
+    font-size: 1.6rem;
   }
 }
 /* ---Highlights end---- */
