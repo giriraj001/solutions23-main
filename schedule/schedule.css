@@ -285,7 +285,7 @@ body {
 
 .footer {
     padding-top: 20rem;
-    padding-bottom: 0rem;
+    padding-bottom: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-items: center;
@@ -553,3 +553,19 @@ body {
 
 
 /* navabar complete */
+
+
+/* --------end--------- */
+
+::-webkit-scrollbar {
+    height: 2px;
+    width: 5px;
+}
+
+ ::-webkit-scrollbar-track {
+    background-color: #2f4b4a;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background-color: rgba(101, 207, 181, 0.516);
+}
