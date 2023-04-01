@@ -350,6 +350,9 @@ body {
 }
 
 /* ---Highlights---- */
+.highlights {
+  background: rgba(29, 67, 61, 0.3);
+}
 .highlights_headding {
   padding-top: 5rem;
 }
