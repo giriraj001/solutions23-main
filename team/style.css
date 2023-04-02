@@ -40,7 +40,7 @@ body {
 
 .footer {
   padding-top: 20rem;
-  padding-bottom: 0rem;
+  padding-bottom: 4rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
@@ -393,7 +393,9 @@ body {
     padding-top: 6rem;
   }
 }
-
+.footer {
+  padding-bottom: 4rem;
+}
 /* --------end--------- */
 
 ::-webkit-scrollbar {
@@ -454,7 +456,7 @@ body {
   background-image: url("members/Vipin\ Yadav-min.jpg");
 }
 .tiwari {
-  background-image: url("members/Aditya\ Tiwari-min.jpeg");
+  background-image: url("members/Aditya\ Tiwari-min.jpg");
 }
 .nush {
   background-image: url("members/Anushna\ Panwar-min.jpeg");

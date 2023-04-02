@@ -203,15 +203,22 @@ body {
 .hero_zigzag::before {
   position: absolute;
   content: "";
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
   right: 20.2%;
-  bottom: 83.32%;
-  background-image: url(images/zig_zag.png);
+  bottom: 85.32%;
+  background-image: url(images/zig_zag.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
-
+@media (max-width: 700px) {
+  .hero_zigzag::before {
+    height: 30px;
+    width: 30px;
+    right: 12.2%;
+    bottom: 88.32%;
+  }
+}
 .hero-section img {
   max-width: 60%;
 }
@@ -390,6 +397,15 @@ body {
   .highlight_image {
     width: 400px;
     height: auto;
+  }
+}
+@media (max-width: 1000px) {
+  .highlight_image {
+    width: 310px;
+    height: auto;
+  }
+  .highlight_disc p {
+    font-size: 1.6rem;
   }
 }
 @media (max-width: 700px) {
@@ -611,4 +627,12 @@ body {
 }
 ::-webkit-scrollbar-thumb {
   background-color: rgba(101, 207, 181, 0.516);
+}
+/* ----particle js----- */
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: max(100vh, 620px);
+  top: 0;
+  z-index: -99;
 }
