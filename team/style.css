@@ -80,6 +80,7 @@ body {
   .footer {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 3rem;
+    padding-bottom: 1rem;
   }
   .container-footer {
     padding-bottom: 2rem;
@@ -360,6 +361,9 @@ body {
 .footer {
   padding-top: 15rem;
 }
+.footer {
+  padding-bottom: 4rem;
+}
 
 @media (max-width: 1200px) {
   .team_grid {
@@ -371,6 +375,9 @@ body {
 }
 
 @media (max-width: 700px) {
+  .footer {
+    padding-bottom: 0rem;
+  }
   .container-footer {
     padding-bottom: 2rem;
   }
@@ -392,9 +399,6 @@ body {
   .webdev_team {
     padding-top: 6rem;
   }
-}
-.footer {
-  padding-bottom: 4rem;
 }
 /* --------end--------- */
 

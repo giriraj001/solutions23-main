@@ -382,6 +382,7 @@ body {
   .footer {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 3rem;
+    padding-bottom: 0rem;
   }
   .container-footer {
     padding-bottom: 2rem;

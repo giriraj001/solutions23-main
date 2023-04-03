@@ -636,3 +636,19 @@ body {
   top: 0;
   z-index: -99;
 }
+/* --------- */
+.chu {
+  position: relative;
+}
+.cha {
+  position: absolute;
+  left: -20%;
+  height: 105%;
+  width: 150%;
+  top: 0;
+  background: rgba(29, 67, 61, 0.3);
+  z-index: -99;
+}
+.events {
+  overflow-x: hidden;
+}
