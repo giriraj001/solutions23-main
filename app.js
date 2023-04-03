@@ -4,10 +4,10 @@ particlesJS(
   {
     particles: {
       number: {
-        value: 200,
+        value: 500,
         density: {
           enable: true,
-          value_area: 800,
+          value_area: 500,
         },
       },
       color: {
@@ -39,7 +39,7 @@ particlesJS(
         },
       },
       size: {
-        value: 5,
+        value: 2,
         random: true,
         anim: {
           enable: false,
@@ -50,14 +50,14 @@ particlesJS(
       },
       line_linked: {
         enable: true,
-        distance: 150,
+        distance: 70,
         color: "#66d6b4",
-        opacity: 0.4,
+        opacity: 0.5,
         width: 1,
       },
       move: {
         enable: true,
-        speed: 6,
+        speed: 0.9,
         direction: "none",
         random: false,
         straight: false,
@@ -127,10 +127,10 @@ if (mobilescreenwidth < 800) {
     {
       particles: {
         number: {
-          value: 100,
+          value: 300,
           density: {
             enable: true,
-            value_area: 800,
+            value_area: 500,
           },
         },
         color: {
@@ -162,7 +162,7 @@ if (mobilescreenwidth < 800) {
           },
         },
         size: {
-          value: 5,
+          value: 2,
           random: true,
           anim: {
             enable: false,
@@ -173,14 +173,14 @@ if (mobilescreenwidth < 800) {
         },
         line_linked: {
           enable: true,
-          distance: 150,
+          distance: 70,
           color: "#66d6b4",
-          opacity: 0.4,
+          opacity: 0.5,
           width: 1,
         },
         move: {
           enable: true,
-          speed: 6,
+          speed: 0.9,
           direction: "none",
           random: false,
           straight: false,
@@ -254,10 +254,10 @@ window.addEventListener(
         {
           particles: {
             number: {
-              value: 100,
+              value: 300,
               density: {
                 enable: true,
-                value_area: 800,
+                value_area: 500,
               },
             },
             color: {
@@ -289,7 +289,7 @@ window.addEventListener(
               },
             },
             size: {
-              value: 5,
+              value: 2,
               random: true,
               anim: {
                 enable: false,
@@ -300,14 +300,14 @@ window.addEventListener(
             },
             line_linked: {
               enable: true,
-              distance: 150,
+              distance: 70,
               color: "#66d6b4",
-              opacity: 0.4,
+              opacity: 0.5,
               width: 1,
             },
             move: {
               enable: true,
-              speed: 6,
+              speed: 0.9,
               direction: "none",
               random: false,
               straight: false,
@@ -376,10 +376,10 @@ window.addEventListener(
         {
           particles: {
             number: {
-              value: 200,
+              value: 500,
               density: {
                 enable: true,
-                value_area: 800,
+                value_area: 500,
               },
             },
             color: {
@@ -411,7 +411,7 @@ window.addEventListener(
               },
             },
             size: {
-              value: 5,
+              value: 2,
               random: true,
               anim: {
                 enable: false,
@@ -422,14 +422,14 @@ window.addEventListener(
             },
             line_linked: {
               enable: true,
-              distance: 150,
+              distance: 70,
               color: "#66d6b4",
-              opacity: 0.4,
+              opacity: 0.5,
               width: 1,
             },
             move: {
               enable: true,
-              speed: 6,
+              speed: 0.9,
               direction: "none",
               random: false,
               straight: false,
