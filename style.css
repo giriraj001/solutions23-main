@@ -195,7 +195,7 @@ body {
   right: 77.69%;
   top: 6.5%;
   bottom: 90.77%;
-  background-image: url(images/hero_arrow.png);
+  background-image: url(images/hero_arrow.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -272,7 +272,7 @@ body {
 .about-us-content {
   margin-top: 10rem;
   font-size: 1.8rem;
-  line-height: 1.2;
+  line-height: 1.5;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
@@ -281,7 +281,7 @@ body {
   margin-left: 10rem;
   margin-right: 10rem;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .about-us-video {
@@ -368,19 +368,22 @@ body {
   grid-template-columns: 1fr 1fr;
   align-items: center;
   justify-content: center;
+  justify-items: center;
   gap: 3rem;
   margin: 5rem 10vw 8rem;
   row-gap: 7rem;
 }
 .highlight_image {
-  width: 500px;
-  height: 250px;
+  width: 350px;
+  height: 350px;
 }
 .highlight_disc {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  /* justify-content: space-around; */
+  gap: 2rem;
+  line-height: 1.4;
 }
 .highlight_disc span {
   font-size: 3rem;
@@ -391,11 +394,14 @@ body {
   background-clip: text;
 }
 .highlight_disc p {
-  font-size: 2rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+.bike_description {
 }
 @media (max-width: 1200px) {
   .highlight_image {
-    width: 400px;
+    width: 350px;
     height: auto;
   }
 }
@@ -414,13 +420,13 @@ body {
   }
   .highlight_image {
     width: 300px;
-    height: 150px;
+    /* height: 150px; */
   }
   .highlights_grid :last-child {
     grid-row: 3;
   }
   .highlight_disc p {
-    font-size: 1.6rem;
+    font-size: 15px;
   }
 }
 /* ---Highlights end---- */
