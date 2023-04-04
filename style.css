@@ -372,6 +372,7 @@ body {
   gap: 3rem;
   margin: 5rem 10vw 8rem;
   row-gap: 7rem;
+  font-family: "Poppins", sans-serif;
 }
 .highlight_image {
   width: 350px;
