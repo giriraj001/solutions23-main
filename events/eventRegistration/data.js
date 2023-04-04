@@ -66,7 +66,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Maze puzzle, a game which we used to see in our books and newspaper and solve them with our fast mind. Now it’s time for robots to do so. Here we bring you the most awaited competition named MAZE RUNNER where each team brings their smart bot which will   analyze the path in the dry run and then has to go through the maze from the start point to the end point by the shortest path in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head proper rules and their implementation  will be carried out .  It would be a wonderful experience for the participants as well as for the spectators and thrilling moments will be captured for lifetime.",
       paragraph:
@@ -83,7 +83,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
       paragraph:
@@ -100,7 +100,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "A well known and loved sport football has become famous world wide and each one of us playing the game want to became Messi and Ronaldo. We are bringing  up the event ROBO SOCCER in which pair of two teams will battle it out and prove their endurance in a nail-biting game of football using their bots as the players . A proper venue will be allotted for the event and with guidance of event head proper rules and their implementation  will be carried out .  It would be a wonderful experience for the participants as well as for the spectators and thrilling moments will be captured for lifetime.",
       paragraph:
@@ -117,7 +117,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
       paragraph:
@@ -134,7 +134,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
       paragraph: "PENDING !!!",
@@ -154,7 +154,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Do you possess the confidence and skills to showcase your analytical mastery? Unleash your innate potential and exhibit your brilliance at Placement Apti, the ultimate platform to demonstrate your aptitude and reasoning skills. Join your like-minded individuals in a fierce competition to prove your mettle. Prepare yourself to tackle some amazing analytical problems that will put your intellect to the ultimate test!",
       paragraph:
@@ -171,7 +171,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "If you are someone who loves to test yourself or a person who keeps on trying to push his/her boundaries.  Here’s an event for you. . .<br>TECH STORM will put to test both your critical thinking and problem-solving skills. Solving these problems will surely help a participant think out-of-box and find the optimal solution to problems.<br>The questions will be mostly based on CS Fundamentals.",
       paragraph:
@@ -188,7 +188,7 @@ const events = [
       firstposition: "5000/-",
       secondposition: "3000/-",
       thirdposition: "2000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Attention all the amazing innovators and creative thinkers! Do you have a desire to analyze problems that have already been established, find the greatest possibilities, and come up with the best possible solution? This is your chance to showcase your brilliant ideas and get a chance to win amazing prizes. So, what are you waiting for? Let your creativity shine and join us at our idea presentation event.",
       paragraph:
@@ -205,7 +205,7 @@ const events = [
       firstposition: "5000/-",
       secondposition: "3000/-",
       thirdposition: "2000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "This is your chance to showcase your talent and creativity behind the lens. Whether you are a beginner or a seasoned photographer, we welcome all students to participate and capture the essence of the moment. Paint your shot with an immersive story that captures the essence of the moment, and be in the running to win big and amazing prizes.",
       paragraph:
@@ -222,7 +222,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "From concept to script, casting to directing, cinematography to editing, this event will put your ultimate cinematography skills to the test. Choose your genre and weave a captivating story that will keep everyone to stay on the edge of their seats. This is your chance to bring your creative vision to life on the big screen. So, grab your camera and get ready to create a masterpiece that leaves a lasting impression on everyone. Join us now and let your filmmaking skills shine and win some amazing prizes.",
       paragraph:
@@ -239,7 +239,7 @@ const events = [
       firstposition: "5000/-",
       secondposition: "3000/-",
       thirdposition: "2000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Bored of regular school projects and assignments ? Well say no more, presenting to you school model making competition. Here, you have to showcase your skills in making a working model for which points will be awarded. Compete with the best and gain astonishing ideas from the others as here everyone gains something new.",
       paragraph: "PENDING!!!",
@@ -248,18 +248,18 @@ const events = [
     // HOW UNICORN
     {
       id: 6,
-      title: "HOW UNICORN",
+      title: "JUSTIFY UNICORN",
       date: "To be declared",
       time: "To be declared",
-      prizeWorth: "20000/-",
-      firstposition: "9000/-",
-      secondposition: "6500/-",
-      thirdposition: "4500/-",
-      teamSize: " 1",
+      prizeWorth: "15000/-",
+      firstposition: "7500/-",
+      secondposition: "5000/-",
+      thirdposition: "2500/-",
+      teamsize: "1-2",
       descriptionUp:
-        "'How Unicorn' event is an opportunity for college students and budding entrepreneurs to study million dollar or billion dollar valued startups like their revenue model, marketing strategy and their growth. Mainly this event is about why even the multi- million dollar valued startup does not show profits,why their marketing strategy is not effective and how we can modify that and make considerable profits. This  event aims to foster entrepreneurial mindset and develop profits making strategy . “How Unicorn'' will be a part of Solutions Inter-College event.",
+        "The ‘Justify Unicorn’ event is about how you validate your selected startup's valuation that has a huge cash burn and is struggling to make profits. Participants have to analyse the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.",
       paragraph:
-        "<b>EVENT DETAILS:</b><br>1. The event will be conducted in the Maneshaw Hall, which can accommodate a sizable number of teams.<br>2. The event will be part of Solutions which is to be conducted on th April.<br>3.The event is open to all students i.e FE/SE/TE/BE enrolled in AIT as well as Pune based participants from different colleges. Each team can have a maximum of four members, and each participant can only be part of one team. The participants will have to submit their ppt of their problem statement followed by shortlisting of 10-12 teams.<br>4. The team has to find loopholes in marketing strategy in multi million dollar startups with high cash burn.<br>5. Teams will be given a Unicorn startup and they have to analyze the startup find the loopholes in startup which is stoping them to generate profits and teams have to come up with unique solution that will make it profitable and jusity the valuation.<br>6. The judges should be experienced entrepreneurs, investors, or business experts who can provide valuable feedback to the participants. The judges should evaluate the participants based on the feasibility, uniqueness, and potential of their startup prototype. The judges will be our esteemed alumni and the faculty members of E-Cell.<br>7. The event can offer the participating and winning teams cash prizes, certificates, or other incentives. The prize money can be funded by the college, sponsors, or donations.<br>8. The event expenses can include:<br>Judge’s fees: NIL<br>Prizes: At max it will be 20k i.e 10k+5k+2.5k and goodies<br>Logistics<br>Refreshments.<br>The college and sponsor can cover the event expenses<br><br><b>CONCLUSION:</b><br>'How Unicorn' event can provide an excellent opportunity for college students to study and analyse the marketing strategy that a startup adopts and fails to generate profits. The event can be organised with careful planning, and the participants can benefit from the feedback provided by the judges. With the right support and resources, the 'HOW Unicorn' event can become a highlight of the Solutions.",
+        "<b>EVENT DETAILS:</b><br><br><b>Round 1(online):</b><br>1. Participants have to select a startup of their wish with huge cash burn and Struggling to make.  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Make a ppt of detailed analysis and solution for the Round-1 online presentation.<br>4.Team size- 1-2 Members. <br> <br><b>Round 2(offline):</b><br>1. Shortlisted teams from Round-1 will be called for an offline presentation of their analysis.  <br>2. The presentations will be judged based on their creativity, feasibility, and problem-solving.",
       descriptionDown: "",
     },
     // SOLID WORKS
@@ -272,7 +272,7 @@ const events = [
       firstposition: "5000/-",
       secondposition: "3000/-",
       thirdposition: "2000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "If you are someone who loves designing or dreams to innovate some out-of-box utility one day, then this is the place for you.<br>SOLID-WORKS  aims at testing the designing and imaginative capability of the contestant. This a platform where the participant can show off all his CAD skills.<br>The participant will be required to create a 3D model of a given problem statement in the allotted time.<br>",
       paragraph:
@@ -293,7 +293,7 @@ const events = [
       firstposition: "12000/-",
       secondposition: "8000/-",
       thirdposition: "5000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Introducing an exciting AIML event where participants will be presented with a problem statement and tasked with building a model to solve it. This event is designed to challenge participants' knowledge and skills in Artificial Intelligence and Machine Learning. Participants will have the opportunity to apply various AI/ML techniques to build a model that can accurately solve the given problem. Get ready to showcase your AI/ML skills and compete against other talented individuals in this engaging and rewarding event!",
       paragraph: "PENDING!!!",
@@ -309,7 +309,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Are you a master storyteller with a knack for breaking the news? Do you have a wild imagination that could take readers on a exciting ride through a news story? Then buckle up! Pick a theme, find an AI generator, create a report.      With the help of AI text generators like ChatGPT, come up with a fictional news report on the given theme. To supplement the report, use AI text-to-image generators like Dall-E 2 and Stable Diffusion to generate a set of images.",
       paragraph:
@@ -330,7 +330,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Reality can be whatever you want  if you're a 3d artist. It's time to polish your rendering skills by taking up this challenge. Participants will be provided with a prompt a day before the start of the event and will have the complete creative freedom to create a 3D scene on any platform.  An example prompt can be : Snowman eating ice cream on a beach  while it rains.<br>It's our prompt, interpreted your way. Get ingenious and flex your skills.",
       paragraph:
@@ -347,7 +347,7 @@ const events = [
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
@@ -364,7 +364,7 @@ const events = [
       firstposition: "15000/-",
       secondposition: "10000/-",
       thirdposition: "5000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 12 hours, featuring various categories including Web, OSINT, Crypto, and more.",
       paragraph:
@@ -385,7 +385,7 @@ const events = [
       firstposition: "9000/-",
       secondposition: "6500/-",
       thirdposition: "4500/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Have you been testing yourself and indulging a lot into the world of esports? Well here is a great opportunity to showcase your skills. Lead through the tournament with team efforts, coordination, precision aims and all the winning tactics that you can muster. Why wait, ready your consoles with proper accessories and a great internet connection. Compete with the best in various maps with your favourite character using flawless strategies and take home great memories along with a great prize money. Ready ? Register now !!!",
       paragraph:
@@ -402,7 +402,7 @@ const events = [
       firstposition: "5000/-",
       secondposition: "3000/-",
       thirdposition: "2000/-",
-      teamSize: " 1",
+      teamsize: " 1",
       descriptionUp:
         "Great in strategic play ? Then you just landed at the right spot. Get ready with your cards to play with the right use of your elixir. Planting a bomb tower there? Maybe an inferno tower will do the trick. The ultimate goal, to bombard all the towers with all the characters you can play. Simple 1 v 1 with one winner at the end. Become a maniac with your favourites and claim the win.",
       paragraph:
