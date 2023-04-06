@@ -31,7 +31,7 @@ let div = `<div class="container">
         <p>3rd : INR ${data[eventcat][eventid].thirdposition}</p>
     </div>
     <div class="team-size-details flex-elements">
-        <img src="./images/team-icon.svg" alt="" class="icon">
+        <img src="./images/team_size.svg" alt="" class="icon">
         <p>Team Size: ${data[eventcat][eventid].teamsize} </p>
     </div>
     <div class="description-box">
