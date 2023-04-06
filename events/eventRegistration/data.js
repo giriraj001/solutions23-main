@@ -441,7 +441,7 @@ const event_links = [
   [["PROJECT JUPYTER"], ["FLASH 500"]],
 
   // game dev & cyber sec. category id=4
-  [["RE-CREATE"], ["AR-CADE"], ["ByPASS CTF"]],
+  [["IMAGINATE"], ["AR-CADE"], ["ByPASS CTF"]],
 
   // gaming category id=5
   [["VALORANT"], ["CLASH ROYALE"]],
