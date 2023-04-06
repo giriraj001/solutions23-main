@@ -35,22 +35,22 @@ const events = [
 
 const category_img = [
   // coding category id=0
-  "./images/coding.png",
+  "./images/coding.svg",
 
   // robotics category id=1
-  "./images/robotics.png",
+  "./images/robotics.svg",
 
   // open category id=2
-  "./images/open_events.png",
+  "./images/open_events.svg",
 
   // machine learning category id=3
-  "./images/machine-learning.png",
+  "./images/machine-learning.svg",
 
   // game dev & cyber sec. category id=4
-  "./images/gdxr.png",
+  "./images/gdxr.svg",
 
   // gaming category id=5
-  "./images/gaming.png",
+  "./images/gaming.svg",
 ];
 
 export { events, category_img };
