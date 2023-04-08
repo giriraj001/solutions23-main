@@ -498,3 +498,18 @@ body {
 .neha {
   background-image: url("members/neha\ choudhary.jpg");
 }
+
+/* ---------- */
+.member_card {
+  transition: all 0.3s ease-in-out;
+}
+.member_card:hover {
+  scale: 1.05;
+  cursor: pointer;
+}
+@media (max-width: 700px) {
+  .member_card:hover {
+    scale: 1;
+    cursor: pointer;
+  }
+}
