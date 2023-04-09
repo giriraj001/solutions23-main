@@ -42,12 +42,18 @@ body {
 /* ---------events text-------- */
 
 .events-text {
+  display: flex;
   padding-top: 15rem;
-  text-align: center;
+  align-content: center;
+  justify-content: center;
+  gap: 2rem;
+  font-family: "strasu", sans-serif;
+  font-weight: 200;
+  font-size: 6rem;
 }
 
 .events-text img {
-  width: 30rem;
+  width: 7rem;
 }
 
 /* ---event scroll---- */
@@ -251,8 +257,11 @@ body {
   .navbar {
     padding-top: 10px;
   }
+  .events-text {
+    font-size: 4rem;
+  }
   .events-text img {
-    width: 20rem;
+    width: 5rem;
   }
   .event_scroll {
     height: 78px;
