@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "strasu";
+  src: url(/font/strasua-webfont.woff2) format("woff2"),
+    url(/font/strasua-webfont.woff) format("woff");
+}
 * {
   padding: 0;
   margin: 0;
@@ -268,6 +273,7 @@ body {
   margin-right: 2rem;
   margin-top: 2rem;
   margin-left: 10rem;
+  font-family: "strasu", sans-serif;
 }
 
 .about-us-content {
@@ -365,13 +371,14 @@ body {
   padding-top: 5rem;
 }
 .highlights_grid {
+  width: 950px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
   justify-content: center;
   justify-items: center;
   gap: 3rem;
-  margin: 5rem 10vw 8rem;
+  margin: 6rem auto 8rem;
   row-gap: 7rem;
   font-family: "Poppins", sans-serif;
 }
@@ -401,12 +408,19 @@ body {
   font-size: 1.8rem;
   font-weight: 300;
 }
-.bike_description {
+.vijay_img {
+  justify-self: start;
+}
+.bike_img {
+  justify-self: end;
 }
 @media (max-width: 1200px) {
   .highlight_image {
     width: 350px;
     height: auto;
+  }
+  .highlights_grid {
+    width: auto;
   }
 }
 @media (max-width: 1000px) {
@@ -421,6 +435,7 @@ body {
 @media (max-width: 700px) {
   .highlights_grid {
     grid-template-columns: 1fr;
+    margin: 5rem 10vw 8rem;
   }
   .highlight_image {
     width: 300px;
@@ -431,6 +446,12 @@ body {
   }
   .highlight_disc p {
     font-size: 15px;
+  }
+  .vijay_img {
+    justify-self: center;
+  }
+  .bike_img {
+    justify-self: center;
   }
 }
 /* ---Highlights end---- */
