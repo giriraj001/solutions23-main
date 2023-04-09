@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "strasu";
+  src: url(/font/strasua-webfont.woff2) format("woff2"),
+    url(/font/strasua-webfont.woff) format("woff");
+}
 * {
   padding: 0;
   margin: 0;
@@ -166,12 +171,18 @@ body {
 /* ---------SCHEDULE TEXT-------- */
 
 .schedule-text {
+  display: flex;
+  justify-content: center;
   padding-top: 15rem;
   text-align: center;
+  gap: 2rem;
+  font-family: "strasu", sans-serif;
+  font-size: 6rem;
+  font-weight: 200;
 }
 
 .schedule-text img {
-  width: 30rem;
+  width: 7rem;
 }
 
 /* -------SCHEDULE SECTION------- */
@@ -333,9 +344,10 @@ body {
   .schedule-text {
     padding-top: 10rem;
     text-align: center;
+    font-size: 4rem;
   }
   .schedule-text img {
-    width: 20rem;
+    width: 5rem;
   }
   .dates_time {
     flex-shrink: 0;
