@@ -266,6 +266,7 @@ body {
 .about-us-headding span {
   font-size: 4rem;
   margin-right: 2rem;
+  margin-top: 2rem;
   margin-left: 10rem;
 }
 
@@ -570,6 +571,7 @@ body {
   }
   .about-us-headding {
     text-align: center;
+    padding-top: 2rem;
   }
   .about-us-headding span {
     margin: 0 auto 0;
