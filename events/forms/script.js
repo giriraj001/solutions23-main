@@ -16,22 +16,21 @@ window.addEventListener("load", (event) => {
   const eventcat = urlParams.get("eventcat");
 
   // waiting_loader.style.display='none';
-  async function redirect_fun() {
-    let self_link = [
-      [2, 0],
-      [2, 1],
-    ]; //[eventcat,eventid]
-    for (let e = 0; e < self_link.length; e++) {
-      console.log(self_link[e][0]);
-      if (eventcat == self_link[e][0] && eventid == self_link[e][1]) {
-        await window.location.assign(`${links[eventcat][eventid]}`);
-      }
-      if (eventcat != self_link[e][0] && eventid != self_link[e][1]) {
-        forms.innerHTML += `${links[eventcat][eventid]}`;
-      }
+
+  let self_link = [
+    [2, 0],
+    [2, 1],
+  ]; //[eventcat,eventid]
+  for (let e = 0; e < self_link.length; e++) {
+    console.log(self_link[e][0]);
+    if (eventcat == self_link[e][0] && eventid == self_link[e][1]) {
+      window.location.assign(`${links[eventcat][eventid]}`);
+    }
+    if (eventcat != self_link[e][0] && eventid != self_link[e][1]) {
+      forms.innerHTML += `${links[eventcat][eventid]}`;
     }
   }
-  redirect_fun();
+
   forms.innerHTML += `${links[eventcat][eventid]}`;
   console.log(forms.innerHTML);
   const waiting = document.querySelector(".waiting");
