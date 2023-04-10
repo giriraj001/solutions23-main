@@ -413,7 +413,7 @@ const events = [
 //------NO change under this
 const event_links = [
   // coding category id=0
-  [["SHORTEST CODE"], ["SHE CODE"], ["CODERED"]],
+  [["SHORTEST CODE"], ["SHE CODE"], ["ByPASS CTF"]],
 
   // robotics category id=1
   [
@@ -440,7 +440,7 @@ const event_links = [
   [["PROJECT JUPYTER"], ["FLASH 500"]],
 
   // game dev & cyber sec. category id=4
-  [["IMAGINATE"], ["AR-CADE"], ["ByPASS CTF"]],
+  [["IMAGINATE"], ["AR-CADE"],],
 
   // gaming category id=5
   [["VALORANT"], ["CLASH ROYALE"]],
