@@ -411,6 +411,7 @@ body {
 .vijay_img {
   justify-self: start;
 }
+
 .bike_img {
   justify-self: end;
 }
@@ -683,4 +684,7 @@ body {
 }
 .events {
   overflow-x: hidden;
+}
+#time_kushal {
+  font-size: 2.1rem;
 }
