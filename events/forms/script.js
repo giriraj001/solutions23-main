@@ -32,7 +32,7 @@ window.addEventListener("load", (event) => {
     }
   }
   redirect_fun();
-  forms.innerHTML = `${links[eventcat][eventid]}`;
+  forms.innerHTML += `${links[eventcat][eventid]}`;
   console.log(forms.innerHTML);
   const waiting = document.querySelector(".waiting");
   // height logic
