@@ -525,5 +525,23 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(101, 207, 181, 0.516);
+  background-color: rgba(42, 159, 130, 0.516);
+}
+
+/* mail link styles */
+.mail_link:link,.mail_link:visited{
+  display: inline-block;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.877);
+  border-radius: 100px;
+  padding: 0px 10px;
+  color: #2f4b4a;
+}
+
+.mail_link:active,.mail_link:hover{
+  text-decoration: none;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 5px rgba(58, 168, 140, 0.516);
+  border-radius: 100px;
+  padding: 0px 10px;
 }
