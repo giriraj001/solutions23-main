@@ -13,9 +13,9 @@ const events = [
       thirdposition: "3000/-",
       teamsize: "1",
       descriptionUp:
-        "Are you a good problem solver? or someone who knows how to deal with things in the most optimal way?<br>SHORTEST CODE is an event where the participants are required to crack the code by sprinting against the time and get to the most optimal and tiniest code possible.<br>This event aims to test the problem-solving and aptitude of the participants and encourage them to code.<br>Remember .The smaller the code, the bigger your chances to win.",
+        "Are you a good problem solver? Or someone who knows how to deal with things in the most optimal way?<br>SHORTEST CODE is an event where the participants are required to crack the code by sprinting against the time and get to the most optimal and tiniest code possible.<br>This event aims to test the problem-solving and aptitude of the participants and encourage them to code.<br>Remember. The smaller the code, the bigger your chances to win.",
       paragraph:
-        "<b><u>RULES:</u></b><br>1. Points will be awarded for every accepted solutions.<br>2. The contestants needs to solve the problem and write the code in c++ only.<br>3. The code should pass all the test cases.<br>4. Contestants with most points will be selected as winners.<br>5. Individual participation.<br>",
+        "<b><u>RULES:</u></b><br>1. Points will be awarded for every accepted solutions.<br>2. The contestants needs to solve the problem and write the code in C++ only.<br>3. The code should pass all the test cases.<br>4. Contestants with most points will be selected as winners.<br>5. Individual participation.<br>6. The round will be of 2 Hours.<br>",
       descriptionDown: "",
     },
     // she code
@@ -32,7 +32,7 @@ const events = [
       descriptionUp:
         "<b>A Women only coding-challenge</b><br>AIT TECHNICAL BOARD brings an amazing opportunity for their female participants, a coding event exclusively meant for our female coders.<br>Here, the participants will be provided with a set of questions in order of their increasing difficulty and are expected to solve them as fast as possible.<br>So, Gear Up and keep coding.<br>",
       paragraph:
-        "<b>GUIDELINES: </b><br>1. The round will be of 2hrs.<br>2. The round will be hosted on HackerRank and all the programs would be run and compiled online.<br>",
+        "<b>GUIDELINES: </b><br>1. The round will be of 1.5 Hours.<br>2. The round will be hosted on HackerRank and all the programs would be run and compiled online.<br>",
       descriptionDown: "",
     },
     // ByPass CTF
@@ -47,9 +47,9 @@ const events = [
       thirdposition: "5000/-",
       teamsize: " 1",
       descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 12 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 36 hours, featuring various categories including Web, OSINT, Crypto, and more.",
       paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions...)<br>5. If there is something wrong with a challenge you are solving, PM the author of that challenge on our Discord Server.",
+        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, PM the author of that challenge on our Discord Server.",
       descriptionDown: "",
     },
     // {
@@ -191,7 +191,7 @@ const events = [
       descriptionUp:
         "If you are someone who loves to test yourself or a person who keeps on trying to push his/her boundaries.  Here’s an event for you. . .<br>TECH STORM will put to test both your critical thinking and problem-solving skills. Solving these problems will surely help a participant think out-of-box and find the optimal solution to problems.<br>The questions will be mostly based on CS Fundamentals.",
       paragraph:
-        "<b>GUIDELINES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain:CS Fundamentals.",
+        "<b>GUIDELINES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain: CS Fundamentals. <br>4. Eligibility : Open for All<br><br>Teams will be given MCQ  questions, 30 Mins will be given for Solving",
       descriptionDown: "",
     },
     // IDEA PRESENTATION
@@ -208,7 +208,7 @@ const events = [
       descriptionUp:
         "Attention all the amazing innovators and creative thinkers! Do you have a desire to analyze problems that have already been established, find the greatest possibilities, and come up with the best possible solution? This is your chance to showcase your brilliant ideas and get a chance to win amazing prizes. So, what are you waiting for? Let your creativity shine and join us at our idea presentation event.",
       paragraph:
-        "<b>DESCRIPTION :</b><br><b>ROUND 1:</b> Idea Pitching<br><b>ROUND 2:</b> Presentation<br><br><b>JUDGING CRITERIA:</b><br>1. Originality of idea. <br>2. Scalability.<br>3. Feasibility.<br>4. Impact on society.<br>5.  Impact on Environment.<br><br><b>RULES:</b><br>1.  This event is open for all.<br>2. All teams will must participate in round 1 for qualification. <br>3. Name of the participating teams with members names should be submitted before XXXXXXXXXXX<br>4.  In the first round you have to mail your PowerPoint Presentation on email id.<br>5. Teams unable to follow the guidlines will be disqualified.<br>6. The selected teams will perform Round 2 Presentation (10 - 15 min). <br>7. The decision of the Technical Board will be final and no queries will be entertained.<br> 8. All teams will send Presentations at: <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> <br>9. Round 2 will be conducted on Microsoft Teams.<br>10. PowerPoint Presentation name should be in the format TeamName_TopicName.",
+        "<b>DESCRIPTION :</b><br><b>ROUND 1:</b> Idea Pitching<br><b>ROUND 2:</b> Presentation<br><br><b>JUDGING CRITERIA:</b><br>1. Originality of idea. <br>2. Scalability.<br>3. Feasibility.<br>4. Impact on society.<br>5.  Impact on Environment.<br><br><b>RULES:</b><br>1.  This event is open for all.<br>2. All teams will must participate in round 1 for qualification. <br>3. Name of the participating teams with members names should be submitted before 21st April 11:50 PM<br>4.  In the first round you have to mail your PowerPoint Presentation on the email id mentioned below.<br>5. Teams unable to follow the guidlines will be disqualified.<br>6. The selected teams will perform Round 2 Presentation (10 - 15 min). <br>7. The decision of the Technical Board will be final and no queries will be entertained.<br> 8. All teams will send Presentations at: <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> <br>9. Round 2 will be conducted on Microsoft Teams.<br>10. PowerPoint Presentation name should be in the format TeamName_TopicName.",
       descriptionDown: "",
     },
     // PHOTOGRAPHY
@@ -225,7 +225,7 @@ const events = [
       descriptionUp:
         "This is your chance to showcase your talent and creativity behind the lens. Whether you are a beginner or a seasoned photographer, we welcome all students to participate and capture the essence of the moment. Paint your shot with an immersive story that captures the essence of the moment, and be in the running to win big and amazing prizes.",
       paragraph:
-        "<b>RULES :</b><br>1. Themes are :<br>Wildlife Photography<br>Urban-Rural Life Photography<br>Cultures In India<br>2. Register and Submit your entry on <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> before XXXXXXX<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
+        "<b>RULES :</b><br>1. Themes are :<br>Symmetry & Abstract<br>Urban-Rural Life Photography<br>Day in the life of an Engineering Student<br>2. Register and Submit your entry on <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> before 22nd April 11:50 PM<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
       descriptionDown: "",
     },
     // MOVIE MAKING
@@ -234,7 +234,7 @@ const events = [
       title: "MOVIE MAKING",
       date: "To be declared",
       time: "To be declared",
-      prizeWorth: "15000/-/-",
+      prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
       thirdposition: "3000/-",
@@ -242,7 +242,7 @@ const events = [
       descriptionUp:
         "From concept to script, casting to directing, cinematography to editing, this event will put your ultimate cinematography skills to the test. Choose your genre and weave a captivating story that will keep everyone to stay on the edge of their seats. This is your chance to bring your creative vision to life on the big screen. So, grab your camera and get ready to create a masterpiece that leaves a lasting impression on everyone. Join us now and let your filmmaking skills shine and win some amazing prizes.",
       paragraph:
-        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before XXXXXXXXXXX to <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Covid awareness<br>Domestic violence.<br>Lifestyle at Hostel.<br>9. Recreation with some modification is allowed.",
+        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before 22nd April 11:50 PM to <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Gender Equity<br>Horror.<br>Lifestyle at Hostel<br>Science Fiction and Time Travel.<br>9. Recreation with some modification is allowed.",
       descriptionDown: "",
     },
     // SCHOOL MODEL MAKING
@@ -258,7 +258,7 @@ const events = [
       teamsize: " 1",
       descriptionUp:
         "Bored of regular school projects and assignments ? Well say no more, presenting to you school model making competition. Here, you have to showcase your skills in making a working model for which points will be awarded. Compete with the best and gain astonishing ideas from the others as here everyone gains something new.",
-      paragraph: "PENDING!!!",
+      paragraph: "1. There are 2 phases:<br>Preparation Phase<br>Judging Phase<br>2. Participants will be given 2 hours for preparing their model after coming to college.<br>3. Participants will be judged by college faculty and will have to give a presentation to the judges.<br>4. Preparation phase will begin at 8:00 AM and judging phase will begin at 10:00 AM.",
       descriptionDown: "",
     },
     // HOW UNICORN
@@ -348,9 +348,9 @@ const events = [
       thirdposition: "3000/-",
       teamsize: " 1",
       descriptionUp:
-        "Reality can be whatever you want  if you're a 3d artist. It's time to polish your rendering skills by taking up this challenge. Participants will be provided with a prompt a day before the start of the event and will have the complete creative freedom to create a 3D scene on any platform.  An example prompt can be : Snowman eating ice cream on a beach  while it rains.<br>It's our prompt, interpreted your way. Get ingenious and flex your skills.",
+        "Reality can be whatever you want  if you're a 3D artist. It's time to polish your rendering skills by taking up this challenge. Participants will be provided with a prompt a day before the start of the event and will have the complete creative freedom to create a 3D scene on any platform.  An example prompt can be : Snowman eating ice cream on a beach  while it rains.<br>It's our prompt, interpreted your way. Get ingenious and flex your skills.",
       paragraph:
-        "<b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 18th april 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.",
+        "<b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 16th April 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.<br>9. Submissions will close on 21st April at 11:50 PM.",
       descriptionDown: "",
     },
     // AR-CADE
@@ -367,7 +367,7 @@ const events = [
       descriptionUp:
         "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
-        "<b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 16th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.",
+        "<b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 15th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.",
       descriptionDown: "",
     },
   ],

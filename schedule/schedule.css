@@ -239,6 +239,7 @@ body {
   margin-top: 10rem;
   gap: 5rem;
   padding-bottom: 5rem;
+  font-style: italic;
 }
 
 .event_border {
