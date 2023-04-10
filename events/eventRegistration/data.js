@@ -35,7 +35,23 @@ const events = [
         "<b>GUIDELINES: </b><br>1. The round will be of 2hrs.<br>2. The round will be hosted on HackerRank and all the programs would be run and compiled online.<br>",
       descriptionDown: "",
     },
-
+    // ByPass CTF
+    {
+      id: 2,
+      title: "ByPass CTF",
+      date: "To be declared",
+      time: "To be declared",
+      prizeWorth: "30000/-",
+      firstposition: "15000/-",
+      secondposition: "10000/-",
+      thirdposition: "5000/-",
+      teamsize: " 1",
+      descriptionUp:
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 12 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+      paragraph:
+        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 4.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions...)<br>5. If there is something wrong with a challenge you are solving, PM the author of that challenge on our Discord Server.",
+      descriptionDown: "",
+    },
     // {
     //   id: 2,
     //   title: "CODE RED",
@@ -209,7 +225,7 @@ const events = [
       descriptionUp:
         "This is your chance to showcase your talent and creativity behind the lens. Whether you are a beginner or a seasoned photographer, we welcome all students to participate and capture the essence of the moment. Paint your shot with an immersive story that captures the essence of the moment, and be in the running to win big and amazing prizes.",
       paragraph:
-        "<b>RULES :</b><br>1. Themes are :<br>Wildlife Photography<br>Urban-Rural Life Photography<br>Cultures In India<br>2. Register and Submit your entry on solutions@aitpune.edu.in before XXXXXXX<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
+        "<b>RULES :</b><br>1. Themes are :<br>Wildlife Photography<br>Urban-Rural Life Photography<br>Cultures In India<br>2. Register and Submit your entry on <a href='mailto:solutions@aitpune.edu.in'>solutions@aitpune.edu.in</a> before XXXXXXX<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
       descriptionDown: "",
     },
     // MOVIE MAKING
@@ -226,7 +242,7 @@ const events = [
       descriptionUp:
         "From concept to script, casting to directing, cinematography to editing, this event will put your ultimate cinematography skills to the test. Choose your genre and weave a captivating story that will keep everyone to stay on the edge of their seats. This is your chance to bring your creative vision to life on the big screen. So, grab your camera and get ready to create a masterpiece that leaves a lasting impression on everyone. Join us now and let your filmmaking skills shine and win some amazing prizes.",
       paragraph:
-        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before XXXXXXXXXXX to solutions@aitpune.edu.in<br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Covid awareness<br>Domestic violence.<br>Lifestyle at Hostel.<br>9. Recreation with some modification is allowed.",
+        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before XXXXXXXXXXX to <a href='mailto:solutions@aitpune.edu.in'>solutions@aitpune.edu.in</a><br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Covid awareness<br>Domestic violence.<br>Lifestyle at Hostel.<br>9. Recreation with some modification is allowed.",
       descriptionDown: "",
     },
     // SCHOOL MODEL MAKING
@@ -248,7 +264,7 @@ const events = [
     // HOW UNICORN
     {
       id: 6,
-      title: "JUSTIFY UNICORN",
+      title: "HOW UNICORN",
       date: "To be declared",
       time: "To be declared",
       prizeWorth: "15000/-",
@@ -276,7 +292,7 @@ const events = [
       descriptionUp:
         "If you are someone who loves designing or dreams to innovate some out-of-box utility one day, then this is the place for you.<br>SOLID-WORKS  aims at testing the designing and imaginative capability of the contestant. This a platform where the participant can show off all his CAD skills.<br>The participant will be required to create a 3D model of a given problem statement in the allotted time.<br>",
       paragraph:
-        "<b>ROUND 1(PART MODELLING):</b><br>Time Allotted : 1 hr<br>Participants will be evaluated on the following things:<br>1. Dimensional accuracy of parts modelled.<br>2. Appropriateness of the features used for part modelling.<br>Maximum number of submission of parts modelled.<br>4. Participants must create a word/pdf file illustrating he parent sketch, dimensions of the part modelled and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br>5. According to the scores in round 1, elimination will be done. Top 40% of the participating teams will qualify for the final round.<br><br><b>ROUND 2(ASSEMBLY MODELLING):</b><br>Time Allocated : 2 hrs<br>Round 2 will be followed by a 10 min explanation session with judges where the participants will have to explain the approach to the part/assembly modelled and will be judged accordingly.<br><br>Participants will be evaluated for following things:<br>1. Number of parts successfully modelled and assembled.<br>2.  Constraining of parts in the assembly.<br>3. Whether sub-assemblies were used and why.<br>4. Appropriateness of the constraints used for assembly.<br>5. Participants must create a word/pdf file illustrating different views of the assembly, exploded views of the assembly, dimensions and work history (Timeline) and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br><b>SUBMISSION GUIDELINES:</b><br>1. Participants are supposed to submit following files:<br>word/pdf file<br>Solid works file(Sldprt/Sldaslm)<br>2. Files should have the following name format for submission:<br>Qno_Team-name_round (i.e. Q2_alpha_round1.pdf and Q1_alpha_round2.sldprt here alpha is team name)<br>3. Participating teams have to mail their files(word/pdf and Solidworks files) in a single mail.<br>4. Finalist have to submit above mentioned file on solutions@aitpune.edu.in<br><br><b>RULES:</b><br>1. Any misbehaviour of a participant during event/rounds may lead to disqualification.<br>2. Absent participants will be automatically disqualified<br>3. All the rights are reserved with the Event Organizer committee.<br>4. In case of any disputes, final wording will remain with the organizers. Decision of the judges is final.<br>5. Only entries submitted within the specified deadline will be considered for evaluation.<br>6. The Organizer reserves the right to update the rules at any time.",
+        "<b>ROUND 1(PART MODELLING):</b><br>Time Allotted : 1 hr<br>Participants will be evaluated on the following things:<br>1. Dimensional accuracy of parts modelled.<br>2. Appropriateness of the features used for part modelling.<br>Maximum number of submission of parts modelled.<br>4. Participants must create a word/pdf file illustrating he parent sketch, dimensions of the part modelled and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br>5. According to the scores in round 1, elimination will be done. Top 40% of the participating teams will qualify for the final round.<br><br><b>ROUND 2(ASSEMBLY MODELLING):</b><br>Time Allocated : 2 hrs<br>Round 2 will be followed by a 10 min explanation session with judges where the participants will have to explain the approach to the part/assembly modelled and will be judged accordingly.<br><br>Participants will be evaluated for following things:<br>1. Number of parts successfully modelled and assembled.<br>2.  Constraining of parts in the assembly.<br>3. Whether sub-assemblies were used and why.<br>4. Appropriateness of the constraints used for assembly.<br>5. Participants must create a word/pdf file illustrating different views of the assembly, exploded views of the assembly, dimensions and work history (Timeline) and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br><b>SUBMISSION GUIDELINES:</b><br>1. Participants are supposed to submit following files:<br>word/pdf file<br>Solid works file(Sldprt/Sldaslm)<br>2. Files should have the following name format for submission:<br>Qno_Team-name_round (i.e. Q2_alpha_round1.pdf and Q1_alpha_round2.sldprt here alpha is team name)<br>3. Participating teams have to mail their files(word/pdf and Solidworks files) in a single mail.<br>4. Finalist have to submit above mentioned file on <a href='mailto:solutions@aitpune.edu.in'>solutions@aitpune.edu.in</a><br><br><b>RULES:</b><br>1. Any misbehaviour of a participant during event/rounds may lead to disqualification.<br>2. Absent participants will be automatically disqualified<br>3. All the rights are reserved with the Event Organizer committee.<br>4. In case of any disputes, final wording will remain with the organizers. Decision of the judges is final.<br>5. Only entries submitted within the specified deadline will be considered for evaluation.<br>6. The Organizer reserves the right to update the rules at any time.",
       descriptionDown: "",
     },
   ],
@@ -352,23 +368,6 @@ const events = [
         "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
         "<b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 16th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.",
-      descriptionDown: "",
-    },
-    // ByPass CTF
-    {
-      id: 2,
-      title: "ByPass CTF",
-      date: "To be declared",
-      time: "To be declared",
-      prizeWorth: "30000/-",
-      firstposition: "15000/-",
-      secondposition: "10000/-",
-      thirdposition: "5000/-",
-      teamsize: " 1",
-      descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 12 hours, featuring various categories including Web, OSINT, Crypto, and more.",
-      paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 4.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions...)<br>5. If there is something wrong with a challenge you are solving, PM the author of that challenge on our Discord Server.",
       descriptionDown: "",
     },
   ],

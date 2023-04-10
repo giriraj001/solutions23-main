@@ -1,6 +1,6 @@
 const events = [
   // coding category id=0
-  [["SHORTEST<br>CODE"], ["SHE CODE"]],
+  [["SHORTEST<br>CODE"], ["SHE CODE"], ["ByPASS CTF"]],
 
   // robotics category id=1
   [
@@ -19,7 +19,7 @@ const events = [
     ["PHOTOGRAPHY"],
     ["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
-    ["JUSTIFY UNICORN"],
+    ["HOW UNICORN"],
     ["SOLID WORKS"],
   ],
 
@@ -27,7 +27,7 @@ const events = [
   [["PROJECT JUPYTER"], ["FLASH 500"]],
 
   // game dev & cyber sec. category id=4
-  [["IMAGINATE"], ["AR-CADE"], ["ByPASS CTF"]],
+  [["IMAGINATE"], ["AR-CADE"]],
 
   // gaming category id=5
   [["VALORANT"], ["CLASH ROYALE"]],
