@@ -24,7 +24,6 @@ let schedule_data = [
     { name: "Arcade", time: "Deadline - 11:50PM" },
     { name: "Flash 500", time: "Deadline -  11:50PM" },
     { name: "Movie Making", time: "Deadline - 11:50PM" },
-    { name: "Flash500", time: "Deadline - 11:50PM" },
   ],
   [
     { name: "Model Making", time: "8:00AM to 12:30PM" },
