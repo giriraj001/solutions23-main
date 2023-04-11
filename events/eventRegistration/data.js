@@ -5,8 +5,8 @@ const events = [
     {
       id: 0,
       title: "SHORTEST CODE",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "1:30PM to 3:30PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -22,8 +22,8 @@ const events = [
     {
       id: 1,
       title: "SHE CODE",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "6:30PM to 8:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -35,12 +35,12 @@ const events = [
         "<b>GUIDELINES: </b><br>1. The round will be of 1.5 Hours.<br>2. The round will be hosted on HackerRank and all the programs would be run and compiled online.<br>",
       descriptionDown: "",
     },
-    // ByPass CTF
+    // ByPass CTF *
     {
       id: 2,
       title: "ByPass CTF",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Begins-9:00AM",
       prizeWorth: "30000/-",
       firstposition: "15000/-",
       secondposition: "10000/-",
@@ -55,8 +55,8 @@ const events = [
     // {
     //   id: 2,
     //   title: "CODE RED",
-    //   date: "To be declared",
-    //   time: "To be declared",
+    //   date: "21 APRIL 2023",
+    //   time: "21 APRIL 2023",
     //   prizeWorth: "XXXX/-",
     //   firstposition: "XXXX",
     //   secondposition: "XXXX",
@@ -70,14 +70,14 @@ const events = [
     // },
   ],
 
-  // robotics category id=1
+  // robotics category id=1 $$
   [
     // MAZE RUNNER
     {
       id: 0,
       title: "MAZE RUNNER",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "Begins-9:00AM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -93,8 +93,8 @@ const events = [
     {
       id: 1,
       title: "PICK AND PLACE",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "Begins-2:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -110,8 +110,8 @@ const events = [
     {
       id: 2,
       title: "ROBO SOCCER",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Begins-9:00AM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -127,8 +127,8 @@ const events = [
     {
       id: 3,
       title: "RC RACING",
-      date: "To be declared",
-      time: "To be declared",
+      date: "23 APRIL 2023",
+      time: "Begins-9:00AM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -144,8 +144,8 @@ const events = [
     {
       id: 4,
       title: "DRONE RACING",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Begins-2:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -164,8 +164,8 @@ const events = [
     {
       id: 0,
       title: "PLACEMENT APTI",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "4:30PM to 5:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -181,8 +181,8 @@ const events = [
     {
       id: 1,
       title: "TECH STORM",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "3:30PM to 4:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -198,8 +198,8 @@ const events = [
     {
       id: 2,
       title: "IDEA PRESENTATION",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "Deadline-11:50PM",
       prizeWorth: "10000/-",
       firstposition: "5000/-",
       secondposition: "3000/-",
@@ -208,15 +208,15 @@ const events = [
       descriptionUp:
         "Attention all the amazing innovators and creative thinkers! Do you have a desire to analyze problems that have already been established, find the greatest possibilities, and come up with the best possible solution? This is your chance to showcase your brilliant ideas and get a chance to win amazing prizes. So, what are you waiting for? Let your creativity shine and join us at our idea presentation event.",
       paragraph:
-        "<b>DESCRIPTION :</b><br><b>ROUND 1:</b> Idea Pitching<br><b>ROUND 2:</b> Presentation<br><br><b>JUDGING CRITERIA:</b><br>1. Originality of idea. <br>2. Scalability.<br>3. Feasibility.<br>4. Impact on society.<br>5.  Impact on Environment.<br><br><b>RULES:</b><br>1.  This event is open for all.<br>2. All teams will must participate in round 1 for qualification. <br>3. Name of the participating teams with members names should be submitted before 21st April 11:50 PM<br>4.  In the first round you have to mail your PowerPoint Presentation on the email id mentioned below.<br>5. Teams unable to follow the guidlines will be disqualified.<br>6. The selected teams will perform Round 2 Presentation (10 - 15 min). <br>7. The decision of the Technical Board will be final and no queries will be entertained.<br> 8. All teams will send Presentations at: <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> <br>9. Round 2 will be conducted on Microsoft Teams.<br>10. PowerPoint Presentation name should be in the format TeamName_TopicName.",
+        "<b>DESCRIPTION :</b><br><b>ROUND 1:</b> Idea Pitching<br><b>ROUND 2:</b> Presentation<br><br><b>JUDGING CRITERIA:</b><br>1. Originality of idea. <br>2. Scalability.<br>3. Feasibility.<br>4. Impact on society.<br>5.  Impact on Environment.<br><br><b>RULES:</b><br>1.  This event is open for all.<br>2. All teams will must participate in round 1 for qualification. <br>3. Name of the participating teams with members names should be submitted before 21st April 11:50 PM<br>4.  In the first round you have to mail your PowerPoint Presentation on the email id mentioned below.<br>5. Teams unable to follow the guidlines will be disqualified.<br>6. The selected teams will perform Round 2 Presentation (10 - 15 min). <br>7. The decision of the Technical Board will be final and no queries will be entertained.<br> 8. All teams will send Presentations at: <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> <br>9. Round 2 will be conducted on Microsoft Teams.<br>10. PowerPoint Presentation name should be in the format TeamName_TopicName.",
       descriptionDown: "",
     },
     // PHOTOGRAPHY
     {
       id: 3,
       title: "PHOTOGRAPHY",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Deadline-11:50PM",
       prizeWorth: "10000/-",
       firstposition: "5000/-",
       secondposition: "3000/-",
@@ -225,15 +225,15 @@ const events = [
       descriptionUp:
         "This is your chance to showcase your talent and creativity behind the lens. Whether you are a beginner or a seasoned photographer, we welcome all students to participate and capture the essence of the moment. Paint your shot with an immersive story that captures the essence of the moment, and be in the running to win big and amazing prizes.",
       paragraph:
-        "<b>RULES :</b><br>1. Themes are :<br>Symmetry & Abstract<br>Urban-Rural Life Photography<br>Day in the life of an Engineering Student<br>2. Register and Submit your entry on <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> before 22nd April 11:50 PM<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
+        "<b>RULES :</b><br>1. Themes are :<br>Symmetry & Abstract<br>Urban-Rural Life Photography<br>Day in the life of an Engineering Student<br>2. Register and Submit your entry on <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> before 22nd April 11:50 PM<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
       descriptionDown: "",
     },
     // MOVIE MAKING
     {
       id: 4,
       title: "MOVIE MAKING",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Deadline-11:50PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -242,15 +242,15 @@ const events = [
       descriptionUp:
         "From concept to script, casting to directing, cinematography to editing, this event will put your ultimate cinematography skills to the test. Choose your genre and weave a captivating story that will keep everyone to stay on the edge of their seats. This is your chance to bring your creative vision to life on the big screen. So, grab your camera and get ready to create a masterpiece that leaves a lasting impression on everyone. Join us now and let your filmmaking skills shine and win some amazing prizes.",
       paragraph:
-        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before 22nd April 11:50 PM to <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Gender Equity<br>Horror.<br>Lifestyle at Hostel<br>Science Fiction and Time Travel.<br>9. Recreation with some modification is allowed.",
+        "<b>GUIDELINES :</b><br>1. The Short Film should be original and any content from youtube or any other already available sources will lead to disqualification.<br>2. It should not have any kind of vulgar content or any content which can hurt the feelings of any community/person.<br>3. All the particpants involved in the process should be included in the credits along with their respective year and college.<br>4. Time limit is 5+2 minutes. Negative marking will be done if the time limit is exceeded or lagged (5 points deduction for every 5 seconds).<br>5. The participants have to submit their movie before 22nd April 11:50 PM to <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br>6. A copy of abstract describing the theme and story of the movie should be submitted. Failing to do so will lead to direct disqualification.<br>7. Changes in the pattern can be made with prior notice (minimum 2 days before the event) to the participants.<br>8. Themes are :<br>Gender Equity<br>Horror.<br>Lifestyle at Hostel<br>Science Fiction and Time Travel.<br>9. Recreation with some modification is allowed.",
       descriptionDown: "",
     },
     // SCHOOL MODEL MAKING
     {
       id: 5,
       title: "SCHOOL MODEL MAKING",
-      date: "To be declared",
-      time: "To be declared",
+      date: "23 APRIL 2023",
+      time: "8:00AM to 12:30PM",
       prizeWorth: "10000/-",
       firstposition: "5000/-",
       secondposition: "3000/-",
@@ -265,8 +265,8 @@ const events = [
     {
       id: 6,
       title: "HOW UNICORN",
-      date: "To be declared",
-      time: "To be declared",
+      date: "23 APRIL 2023",
+      time: "Begins-3:00PM",
       prizeWorth: "15000/-",
       firstposition: "7500/-",
       secondposition: "5000/-",
@@ -282,8 +282,8 @@ const events = [
     {
       id: 7,
       title: "SOLID WORKS",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "10:30AM to 1:00PM",
       prizeWorth: "10000/-",
       firstposition: "5000/-",
       secondposition: "3000/-",
@@ -292,19 +292,19 @@ const events = [
       descriptionUp:
         "If you are someone who loves designing or dreams to innovate some out-of-box utility one day, then this is the place for you.<br>SOLID-WORKS  aims at testing the designing and imaginative capability of the contestant. This a platform where the participant can show off all his CAD skills.<br>The participant will be required to create a 3D model of a given problem statement in the allotted time.<br>",
       paragraph:
-        "<b>ROUND 1(PART MODELLING):</b><br>Time Allotted : 1 hr<br>Participants will be evaluated on the following things:<br>1. Dimensional accuracy of parts modelled.<br>2. Appropriateness of the features used for part modelling.<br>Maximum number of submission of parts modelled.<br>4. Participants must create a word/pdf file illustrating he parent sketch, dimensions of the part modelled and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br>5. According to the scores in round 1, elimination will be done. Top 40% of the participating teams will qualify for the final round.<br><br><b>ROUND 2(ASSEMBLY MODELLING):</b><br>Time Allocated : 2 hrs<br>Round 2 will be followed by a 10 min explanation session with judges where the participants will have to explain the approach to the part/assembly modelled and will be judged accordingly.<br><br>Participants will be evaluated for following things:<br>1. Number of parts successfully modelled and assembled.<br>2.  Constraining of parts in the assembly.<br>3. Whether sub-assemblies were used and why.<br>4. Appropriateness of the constraints used for assembly.<br>5. Participants must create a word/pdf file illustrating different views of the assembly, exploded views of the assembly, dimensions and work history (Timeline) and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br><b>SUBMISSION GUIDELINES:</b><br>1. Participants are supposed to submit following files:<br>word/pdf file<br>Solid works file(Sldprt/Sldaslm)<br>2. Files should have the following name format for submission:<br>Qno_Team-name_round (i.e. Q2_alpha_round1.pdf and Q1_alpha_round2.sldprt here alpha is team name)<br>3. Participating teams have to mail their files(word/pdf and Solidworks files) in a single mail.<br>4. Finalist have to submit above mentioned file on <a href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br><br><b>RULES:</b><br>1. Any misbehaviour of a participant during event/rounds may lead to disqualification.<br>2. Absent participants will be automatically disqualified<br>3. All the rights are reserved with the Event Organizer committee.<br>4. In case of any disputes, final wording will remain with the organizers. Decision of the judges is final.<br>5. Only entries submitted within the specified deadline will be considered for evaluation.<br>6. The Organizer reserves the right to update the rules at any time.",
+        "<b>ROUND 1(PART MODELLING):</b><br>Time Allotted : 1 hr<br>Participants will be evaluated on the following things:<br>1. Dimensional accuracy of parts modelled.<br>2. Appropriateness of the features used for part modelling.<br>Maximum number of submission of parts modelled.<br>4. Participants must create a word/pdf file illustrating he parent sketch, dimensions of the part modelled and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br>5. According to the scores in round 1, elimination will be done. Top 40% of the participating teams will qualify for the final round.<br><br><b>ROUND 2(ASSEMBLY MODELLING):</b><br>Time Allocated : 2 hrs<br>Round 2 will be followed by a 10 min explanation session with judges where the participants will have to explain the approach to the part/assembly modelled and will be judged accordingly.<br><br>Participants will be evaluated for following things:<br>1. Number of parts successfully modelled and assembled.<br>2.  Constraining of parts in the assembly.<br>3. Whether sub-assemblies were used and why.<br>4. Appropriateness of the constraints used for assembly.<br>5. Participants must create a word/pdf file illustrating different views of the assembly, exploded views of the assembly, dimensions and work history (Timeline) and save the files (Sldprt/Sldaslm files) with the proper name format for submission.<br><b>SUBMISSION GUIDELINES:</b><br>1. Participants are supposed to submit following files:<br>word/pdf file<br>Solid works file(Sldprt/Sldaslm)<br>2. Files should have the following name format for submission:<br>Qno_Team-name_round (i.e. Q2_alpha_round1.pdf and Q1_alpha_round2.sldprt here alpha is team name)<br>3. Participating teams have to mail their files(word/pdf and Solidworks files) in a single mail.<br>4. Finalist have to submit above mentioned file on <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a><br><br><b>RULES:</b><br>1. Any misbehaviour of a participant during event/rounds may lead to disqualification.<br>2. Absent participants will be automatically disqualified<br>3. All the rights are reserved with the Event Organizer committee.<br>4. In case of any disputes, final wording will remain with the organizers. Decision of the judges is final.<br>5. Only entries submitted within the specified deadline will be considered for evaluation.<br>6. The Organizer reserves the right to update the rules at any time.",
       descriptionDown: "",
     },
   ],
 
   // machine learning category id=3
   [
-    // PROJECT JUPYTER
+    // PROJECT JUPYTER *
     {
       id: 0,
       title: "PROJECT JUPYTER",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "Begins-11:00AM",
       prizeWorth: "25000/-",
       firstposition: "12000/-",
       secondposition: "8000/-",
@@ -319,8 +319,8 @@ const events = [
     {
       id: 1,
       title: "FLASH 500",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "Deadline-11:50PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -340,8 +340,8 @@ const events = [
     {
       id: 0,
       title: "IMAGINATE",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "Deadline-11:50PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -353,12 +353,12 @@ const events = [
         "<b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 16th April 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.<br>9. Submissions will close on 21st April at 11:50 PM.",
       descriptionDown: "",
     },
-    // AR-CADE
+    // AR-CADE $$
     {
       id: 1,
       title: "AR-CADE",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21 APRIL 2023",
+      time: "6:30PM to 8:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
       secondposition: "5000/-",
@@ -374,12 +374,12 @@ const events = [
 
   // gaming category id=5
   [
-    // VALORANT
+    // VALORANT **
     {
       id: 0,
       title: "VALORANT",
-      date: "To be declared",
-      time: "To be declared",
+      date: "21/04/2023 to 23/04/2023",
+      time: "Daily 9:00AM to 9:00PM",
       prizeWorth: "20000/-",
       firstposition: "9000/-",
       secondposition: "6500/-",
@@ -395,8 +395,8 @@ const events = [
     {
       id: 1,
       title: "CLASH ROYAL",
-      date: "To be declared",
-      time: "To be declared",
+      date: "22 APRIL 2023",
+      time: "11:00AM to 2:00PM",
       prizeWorth: "10000/-",
       firstposition: "5000/-",
       secondposition: "3000/-",

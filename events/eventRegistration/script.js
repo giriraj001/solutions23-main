@@ -18,7 +18,7 @@ let div = `<div class="container">
         </div>
         <div class="time-details flex-elements">
             <img src="./images/time-icon.svg" alt="" class="icon">
-            <p>Time: ${data[eventcat][eventid].date}</p>
+            <p>Time: ${data[eventcat][eventid].time}</p>
         </div>
     </div>
     <div class="total-prize-details flex-elements">
