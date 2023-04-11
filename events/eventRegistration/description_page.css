@@ -334,7 +334,7 @@ body {
     color: white;
     background: linear-gradient(
       91.01deg,
-      rgba(102, 207, 180, 0.3) 0.87%,
+      rgba(102, 207, 180, 0.302) 0.87%,
       rgba(95, 177, 199, 0.3) 54.47%
     );
     backdrop-filter: blur(10px);
@@ -529,7 +529,8 @@ body {
 }
 
 /* mail link styles */
-.mail_link:link,.mail_link:visited{
+.mail_link:link,
+.mail_link:visited {
   display: inline-block;
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.877);
@@ -538,7 +539,8 @@ body {
   color: #2f4b4a;
 }
 
-.mail_link:active,.mail_link:hover{
+.mail_link:active,
+.mail_link:hover {
   text-decoration: none;
   background-color: rgb(255, 255, 255);
   box-shadow: 5px 5px 5px rgba(58, 168, 140, 0.516);

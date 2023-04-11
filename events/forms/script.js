@@ -20,6 +20,7 @@ window.addEventListener("load", (event) => {
   let self_link = [
     [2, 0],
     [2, 1],
+    [0, 2],
   ]; //[eventcat,eventid]
   for (let e = 0; e < self_link.length; e++) {
     console.log(self_link[e][0]);
