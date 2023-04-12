@@ -22,17 +22,19 @@ window.addEventListener("load", (event) => {
     [2, 1],
     [0, 2],
   ]; //[eventcat,eventid]
+  let redirect =false;
   for (let e = 0; e < self_link.length; e++) {
-    console.log(self_link[e][0]);
     if (eventcat == self_link[e][0] && eventid == self_link[e][1]) {
-      window.location.assign(`${links[eventcat][eventid]}`);
-    }
-    if (eventcat != self_link[e][0] && eventid != self_link[e][1]) {
-      forms.innerHTML += `${links[eventcat][eventid]}`;
+      redirect=true;
     }
   }
+  if (redirect) {
+    window.location.assign(`${links[eventcat][eventid]}`);
+  }
+  if (!redirect) {
+    forms.innerHTML += `${links[eventcat][eventid]}`;
+  }
 
-  forms.innerHTML += `${links[eventcat][eventid]}`;
   console.log(forms.innerHTML);
   const waiting = document.querySelector(".waiting");
   // height logic
