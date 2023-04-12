@@ -45,9 +45,9 @@ const events = [
       firstposition: "15000/-",
       secondposition: "10000/-",
       thirdposition: "5000/-",
-      teamsize: " 1",
+      teamsize: " Individual Participation",
       descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition is designed for beginners and follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 36 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 36 hours, featuring various categories including Web, OSINT, Crypto, and more.",
       paragraph:
         "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, PM the author of that challenge on our Discord Server.",
       descriptionDown: "",
