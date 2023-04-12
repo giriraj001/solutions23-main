@@ -44,7 +44,7 @@ window.addEventListener("load", (event) => {
   iframe.style.display = "block";
   iframe.style.visibility = "hidden";
   if (screenwidth < 800) {
-    iframe.width = 300;
+    iframe.width = 350;
     console.log("width:", iframe.width);
   }
 
@@ -63,7 +63,7 @@ window.addEventListener("load", (event) => {
     function (event) {
       let screenwidth = window.innerWidth;
       if (screenwidth < 800) {
-        iframe.width = 300;
+        iframe.width = 350;
         console.log(iframe.width);
       }
       if (screenwidth > 800) {
