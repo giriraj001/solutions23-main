@@ -15,7 +15,7 @@ const events = [
       descriptionUp:
         "Are you a good problem solver? Or someone who knows how to deal with things in the most optimal way?<br>SHORTEST CODE is an event where the participants are required to crack the code by sprinting against the time and get to the most optimal and tiniest code possible.<br>This event aims to test the problem-solving and aptitude of the participants and encourage them to code.<br>Remember. The smaller the code, the bigger your chances to win.",
       paragraph:
-        "<b><u>RULES:</u></b><br>1. Points will be awarded for every accepted solutions.<br>2. The contestants needs to solve the problem and write the code in C++ only.<br>3. The code should pass all the test cases.<br>4. Contestants with most points will be selected as winners.<br>5. Individual participation.<br>6. The round will be of 2 Hours.<br>",
+        "<b><u>RULES:</u></b><br><b>* Bring your own laptop.</b><br>1. Points will be awarded for every accepted solutions.<br>2. The contestants needs to solve the problem and write the code in C++ only.<br>3. The code should pass all the test cases.<br>4. Contestants with most points will be selected as winners.<br>5. Individual participation.<br>6. The round will be of 2 Hours.<br>",
       descriptionDown: "",
     },
     // she code
