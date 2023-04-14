@@ -190,28 +190,32 @@ body {
   align-self: center;
   margin: 90px auto;
 }
-
-.hero-section::after {
+.upper_hero_zigzag {
+  position: relative;
+  /* width: 50px; */
+}
+.upper_hero_zigzag::after {
   position: absolute;
   content: "";
   height: 50px;
   width: 50px;
-  left: 18.28%;
-  right: 77.69%;
-  top: 6.5%;
-  bottom: 90.77%;
+  left: -35px;
+  top: -130px;
   background-image: url(images/hero_arrow.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
-
+.hero_zigzag {
+  position: relative;
+  /* width: 50px; */
+}
 .hero_zigzag::before {
   position: absolute;
   content: "";
   height: 50px;
   width: 50px;
-  right: 20.2%;
-  bottom: 85.32%;
+  right: -35px;
+  bottom: -130px;
   background-image: url(images/zig_zag.svg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -220,8 +224,14 @@ body {
   .hero_zigzag::before {
     height: 30px;
     width: 30px;
-    right: 12.2%;
-    bottom: 90%;
+    right: -9px;
+    bottom: -85px;
+  }
+  .upper_hero_zigzag::after {
+    height: 30px;
+    width: 30px;
+    left: -9px;
+    top: -80px;
   }
 }
 .hero-section img {
