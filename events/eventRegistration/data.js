@@ -274,7 +274,7 @@ const events = [
       thirdposition: "2500/-",
       teamsize: "1-2",
       descriptionUp:
-        "The ‘Justify Unicorn’ event is about how you validate your selected startup's valuation that has a huge cash burn and is struggling to make profits. Participants have to analyse the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.",
+        "The ‘How Unicorn’ event is about how you validate your selected startup's valuation that has a huge cash burn and is struggling to make profits. Participants have to analyse the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.",
       paragraph:
         "<b>EVENT DETAILS:</b><br><br><b>Round 1(online):</b><br>1. Participants have to select a startup of their wish with huge cash burn and Struggling to make.  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Make a ppt of detailed analysis and solution for the Round-1 online presentation.<br>4.Team size- 1-2 Members. <br> <br><b>Round 2(offline):</b><br>1. Shortlisted teams from Round-1 will be called for an offline presentation of their analysis.  <br>2. The presentations will be judged based on their creativity, feasibility, and problem-solving.",
       descriptionDown: "",
@@ -358,7 +358,7 @@ const events = [
     {
       id: 1,
       title: "AR-CADE",
-      date: "21 APRIL 2023",
+      date: "22 APRIL 2023",
       time: "6:30PM to 8:00PM",
       prizeWorth: "15000/-",
       firstposition: "7000/-",
