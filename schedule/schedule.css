@@ -262,7 +262,6 @@ body {
   align-items: center;
   gap: 0.1rem;
   border-radius: 3px;
-  font-style: italic;
 }
 
 .event_name {
