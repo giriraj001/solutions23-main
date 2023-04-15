@@ -22,6 +22,11 @@ window.addEventListener("load", (event) => {
     [2, 1],
     [0, 2],
     [3, 0],
+    [1, 0],
+    [1, 1],
+    [1, 2],
+    [1, 3],
+    [1, 4],
   ]; //[eventcat,eventid]
   let redirect = false;
   for (let e = 0; e < self_link.length; e++) {

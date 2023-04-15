@@ -13,21 +13,11 @@ export var google_form_links = [
   // robotics category id=1
   // THESE LINKS DOESN'T MATTER (FOR ROBOTICS)
   [
-    [
-      '<iframe class="form" style="display:none"  src="https://docs.google.com/forms/d/e/1FAIpQLSdwFcOaSgaKyqOcf1UZXdf4C38vsuNjVifJHAaJMExPG-TsTA/viewform?embedded=true" width="640" height="878" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none"  src="https://docs.google.com/forms/d/e/1FAIpQLSdwFcOaSgaKyqOcf1UZXdf4C38vsuNjVifJHAaJMExPG-TsTA/viewform?embedded=true" width="640" height="878" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none"  src="https://docs.google.com/forms/d/e/1FAIpQLSdwFcOaSgaKyqOcf1UZXdf4C38vsuNjVifJHAaJMExPG-TsTA/viewform?embedded=true" width="640" height="878" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none"  src="https://docs.google.com/forms/d/e/1FAIpQLSdwFcOaSgaKyqOcf1UZXdf4C38vsuNjVifJHAaJMExPG-TsTA/viewform?embedded=true" width="640" height="878" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none"  src="https://docs.google.com/forms/d/e/1FAIpQLSdwFcOaSgaKyqOcf1UZXdf4C38vsuNjVifJHAaJMExPG-TsTA/viewform?embedded=true" width="640" height="878" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    ["https://forms.gle/TkwHuWgFeMnvYAtf9"],
+    ["https://forms.gle/tfqpHMeW8HYtZkQ89"],
+    ["https://forms.gle/5rqp2RcjpojC7uWs7"],
+    ["https://forms.gle/CQKEubHr8dmj9DdT9"],
+    ["https://forms.gle/xYuvnZQjCPc7bJAi9"],
   ],
 
   // open category id=2

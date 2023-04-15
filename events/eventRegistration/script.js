@@ -50,7 +50,7 @@ console.log(container);
 
 // redirecting method
 
-let self_website = [[1, "robotics", "http://aitcear.in"]];
+let self_website = []; //[[1, "robotics", "http://aitcear.in"]]
 
 window.addEventListener("DOMContentLoaded", function () {
   let registerbtn = document.querySelectorAll(".register")[0];
