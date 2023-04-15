@@ -21,11 +21,12 @@ window.addEventListener("load", (event) => {
     [2, 0],
     [2, 1],
     [0, 2],
+    [3, 0],
   ]; //[eventcat,eventid]
-  let redirect =false;
+  let redirect = false;
   for (let e = 0; e < self_link.length; e++) {
     if (eventcat == self_link[e][0] && eventid == self_link[e][1]) {
-      redirect=true;
+      redirect = true;
     }
   }
   if (redirect) {

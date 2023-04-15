@@ -313,7 +313,8 @@ const events = [
       teamsize: " 1",
       descriptionUp:
         "Introducing an exciting AIML event where participants will be presented with a problem statement and tasked with building a model to solve it. This event is designed to challenge participants' knowledge and skills in Artificial Intelligence and Machine Learning. Participants will have the opportunity to apply various AI/ML techniques to build a model that can accurately solve the given problem. Get ready to showcase your AI/ML skills and compete against other talented individuals in this engaging and rewarding event!",
-      paragraph: "PENDING!!!",
+      paragraph:
+        "Unleash the power of AIML with us as we get an stunning event for you where <b>'Mind meets the Machine'</b>. <br>The Technical Board of AIT feel amazed to present an exclusive AIML event this season for our 'constant learners'. <br><b>GENERAL GUIDELINES:</b><br>1. It's going to be an online hackathon with 2 tracks(2 different problem statements). <br>2. Participants will be given with dataset registration on kaggle and a period of 1-2 days depending upon the track.(1 dl means 1 day and 2 dl means 2 days) <br>3. All the registrations will be made on solutions website. <br>4. Event will be hosted on kaggle. <br>Participate here, and stand a chance to win prizes worth INR 25,000+ . <br>Hurry Up and Register : <a class='mail_link' href='https://unstop.com/p/project-jupyter-army-institute-of-technology-ait-pune-666424'>Project Jupyter</a>",
       descriptionDown: "",
     },
     // FLASH 500

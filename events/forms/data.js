@@ -60,7 +60,7 @@ export var google_form_links = [
   // machine learning category id=3
   [
     [
-      '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffTyIS4q8sIGOjNZ6hfns0_beXHIrjIyeqF8hor8VLckq8AA/viewform?embedded=true" width="640" height="1110" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      "https://unstop.com/p/project-jupyter-army-institute-of-technology-ait-pune-666424",
     ],
     [
       '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSePvxmgdaWwBAyBHniRFg7kYS3ZGYFPfc0uFgx6ES5DYrwm3w/viewform?embedded=true" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
