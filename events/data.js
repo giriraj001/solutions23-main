@@ -5,10 +5,10 @@ const events = [
   // robotics category id=1
   [
     ["MAZE RUNNER"],
-    ["PICK & PLACE"],
+    ["ROBO-CLENCH"],
     ["ROBO SOCCER"],
-    ["RC RACING"],
-    ["DRONE RACING"],
+    ["RUSTY WHEELS"],
+    ["DRONE DRAG"],
   ],
 
   // open category id=2

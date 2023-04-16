@@ -23,12 +23,12 @@ let div = `<div class="container">
     </div>
     <div class="total-prize-details flex-elements">
         <img src="./images/prize-icon.svg" alt="" class="icon">
-        <p>Prizes worth: INR ${data[eventcat][eventid].prizeWorth}</p>
+        <p>Prizes worth: ${data[eventcat][eventid].prizeWorth}</p>
     </div>
     <div class="individual-prize-details flex-elements">
-        <p>1st : INR ${data[eventcat][eventid].firstposition}</p>
-        <p>2nd : INR ${data[eventcat][eventid].secondposition}</p>
-        <p>3rd : INR ${data[eventcat][eventid].thirdposition}</p>
+        <p>1st :  ${data[eventcat][eventid].firstposition}</p>
+        <p>2nd :  ${data[eventcat][eventid].secondposition}</p>
+        <p>3rd :  ${data[eventcat][eventid].thirdposition}</p>
     </div>
     <div class="team-size-details flex-elements">
         <img src="./images/team_size.svg" alt="" class="icon">
