@@ -204,7 +204,7 @@ const events = [
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
       thirdposition: "INR 2000/-",
-      teamsize: " 1",
+      teamsize: " 2",
       descriptionUp:
         "Attention all the amazing innovators and creative thinkers! Do you have a desire to analyze problems that have already been established, find the greatest possibilities, and come up with the best possible solution? This is your chance to showcase your brilliant ideas and get a chance to win amazing prizes. So, what are you waiting for? Let your creativity shine and join us at our idea presentation event.",
       paragraph:
@@ -352,7 +352,7 @@ const events = [
       descriptionUp:
         "Reality can be whatever you want  if you're a 3D artist. It's time to polish your rendering skills by taking up this challenge. Participants will be provided with a prompt a day before the start of the event and will have the complete creative freedom to create a 3D scene on any platform.  An example prompt can be : Snowman eating ice cream on a beach  while it rains.<br>It's our prompt, interpreted your way. Get ingenious and flex your skills.",
       paragraph:
-        "<b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 16th April 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.<br>9. Submissions will close on 21st April at 11:50 PM.",
+        "<b>PROMPT:</b><br>Being chased by an Army.<br><br><b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 16th April 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.<br>9. Submissions will close on 21st April at 11:59 PM.<br><br>10.      <a class='mail_link' href='https://forms.gle/mP1tj9PHEZkT9G5y8'>Click here for submission</a>",
       descriptionDown: "",
     },
     // AR-CADE $$
@@ -369,7 +369,7 @@ const events = [
       descriptionUp:
         "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
-        "<b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 15th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.",
+        "<b>THEME :</b> <br>Science Fiction(SCI-FI)<br><br><b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 15th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.<br><br>9.         <a class='mail_link' href='https://forms.gle/4DRwG2znmNr5yLth6'>Click here for submission</a>",
       descriptionDown: "",
     },
   ],
