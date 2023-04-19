@@ -153,7 +153,8 @@ const events = [
       teamsize: " Upto 4 Participant",
       descriptionUp:
         "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
-      paragraph: "The objective of the Drone Maze Challenges is to complete an obstacle course using a drone .The course is designed to simulate real - world scenarios where a drone operator must navigate obstacles to complete a mission.",
+      paragraph:
+        "The objective of the Drone Maze Challenges is to complete an obstacle course using a drone .The course is designed to simulate real - world scenarios where a drone operator must navigate obstacles to complete a mission.",
       descriptionDown: "",
     },
   ],
@@ -274,9 +275,9 @@ const events = [
       thirdposition: "INR 2500/-",
       teamsize: "1-2",
       descriptionUp:
-        "The ‘How Unicorn’ event is about how you validate your selected startup's valuation that has a huge cash burn and is struggling to make profits. Participants have to analyse the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.",
+        "The “How Unicorn'' event is about how you validate your selected startup's valuation that has a huge cash burn and struggling to make profits. Participants have to analyse the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.",
       paragraph:
-        "<b>EVENT DETAILS:</b><br><br><b>Round 1(online):</b><br>1. Participants have to select a startup of their wish with huge cash burn and Struggling to make.  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Make a ppt of detailed analysis and solution for the Round-1 online presentation.<br>4.Team size- 1-2 Members. <br> <br><b>Round 2(offline):</b><br>1. Shortlisted teams from Round-1 will be called for an offline presentation of their analysis.  <br>2. The presentations will be judged based on their creativity, feasibility, and problem-solving.",
+        "<b>EVENT DETAILS:</b><br><br><b>Round 1(offline):</b><br>1. There will be a quiz which will be in Manekshaw Hall on 21 April 2023.  <br>2. Top 10 performers will be qualified for the second round. <br> <br> <br><b>Round 2(online):</b><br>1. Participants have to select a startup of their wish with a huge cash burn and struggling to make profit  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Your Presentation must include:<br>a. Problem Identified<br>b. Strategies you will implement.<br>c. How you will justify the current valuation<br>4. Second round will be held on 23 April 2023<br><br>You can select startups from below or you may select our own.<br> 1. Bharatpe<br>2. Paytm<br>3. Meesho<br>4. Udaan<br>5. Swiggy",
       descriptionDown: "",
     },
     // SOLID WORKS
