@@ -239,7 +239,7 @@ const events = [
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
       thirdposition: "INR 3000/-",
-      teamsize: " 1",
+      teamsize: " 5-8 ",
       descriptionUp:
         "From concept to script, casting to directing, cinematography to editing, this event will put your ultimate cinematography skills to the test. Choose your genre and weave a captivating story that will keep everyone to stay on the edge of their seats. This is your chance to bring your creative vision to life on the big screen. So, grab your camera and get ready to create a masterpiece that leaves a lasting impression on everyone. Join us now and let your filmmaking skills shine and win some amazing prizes.",
       paragraph:
