@@ -5,7 +5,7 @@ let schedule_data = [
     { name: "Solidworks", time: "10:30AM to 1:00PM" },
     { name: "Project Jupyter", time: "Begins -  11:00AM" },
     { name: "Pick & Place", time: "Begins -  2:00PM" },
-    { name: "Techmatrix", time: "3:30PM to 4:00PM" },
+    { name: "Tech Storm", time: "3:30PM to 4:00PM" },
     { name: "Session By A.Saha", time: "4:00PM" },
     { name: "Placement Apti", time: "4:30PM to 5:00PM" },
     { name: "She Code", time: "6:30PM to 8:00PM" },
