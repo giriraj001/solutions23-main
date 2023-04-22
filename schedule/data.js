@@ -16,7 +16,7 @@ let schedule_data = [
     { name: "Valorant", time: "9:00AM to 9:00PM" },
     { name: "ByPass CTF", time: "Begins - 9:00AM" },
     { name: "Robo Soccer", time: "Begins - 9:00AM" },
-    { name: "Clash Royale", time: "11:00AM to 2:00PM" },
+    { name: "Clash Royale", time: "10:00AM to 1:00PM" },
     { name: "Shortest Code", time: "1:30PM to 3:30PM" },
     { name: "Drone Racing", time: "Begins - 2:00PM" },
     { name: "Session by K.Vijay", time: "2:00PM" },
