@@ -399,7 +399,7 @@ const events = [
       id: 1,
       title: "CLASH ROYAL",
       date: "22 APRIL 2023",
-      time: "10:00AM to 1:00PM",
+      time: "10:00AM to 11:00PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
